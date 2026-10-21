@@ -1,0 +1,2501 @@
+OrderID,OrderDate,CustomerID,SalesChannel,PaymentMethod,OrderStatus
+O000001,2024-11-19,C0307,Marketplace,UPI,Returned
+O000002,2025-06-08,C0051,Online,Debit Card,Completed
+O000003,2024-02-09,C0294,Retail Store,UPI,Cancelled
+O000004,2024-07-07,C0158,Retail Store,Credit Card,Completed
+O000005,2023-02-19,C0014,Online,Debit Card,Completed
+O000006,2025-03-17,C0037,Online,Debit Card,Completed
+O000007,2024-06-20,C0296,Online,UPI,Completed
+O000008,2024-08-06,C0473,Retail Store,UPI,Completed
+O000009,2023-08-24,C0253,Online,Cash,Completed
+O000010,2024-10-16,C0223,Online,Credit Card,Cancelled
+O000011,2025-03-26,C0045,Online,UPI,Returned
+O000012,2024-01-18,C0338,Marketplace,UPI,Completed
+O000013,2023-05-24,C0028,Retail Store,Credit Card,Completed
+O000014,2024-02-28,C0421,Marketplace,Cash,Completed
+O000015,2023-08-06,C0409,Retail Store,UPI,Completed
+O000016,2024-02-14,C0496,Retail Store,UPI,Completed
+O000017,2024-11-17,C0143,Retail Store,Credit Card,Completed
+O000018,2023-05-05,C0081,Marketplace,UPI,Completed
+O000019,2025-03-29,C0150,Retail Store,UPI,Completed
+O000020,2023-09-03,C0400,Online,Cash,Returned
+O000021,2025-09-06,C0110,Retail Store,Debit Card,Completed
+O000022,2025-03-13,C0444,Retail Store,UPI,Returned
+O000023,2023-10-26,C0078,Online,Credit Card,Completed
+O000024,2024-09-08,C0025,Online,UPI,Completed
+O000025,2023-05-02,C0110,Online,UPI,Returned
+O000026,2023-04-20,C0378,Marketplace,Debit Card,Completed
+O000027,2025-11-12,C0302,Online,Credit Card,Completed
+O000028,2025-05-28,C0178,Marketplace,Debit Card,Completed
+O000029,2023-06-19,C0329,Online,Net Banking,Completed
+O000030,2023-11-06,C0325,Retail Store,UPI,Completed
+O000031,2023-08-05,C0278,Online,Cash,Completed
+O000032,2024-03-08,C0258,Marketplace,Credit Card,Completed
+O000033,2023-11-16,C0051,Retail Store,UPI,Completed
+O000034,2023-12-26,C0130,Online,Net Banking,Completed
+O000035,2024-08-02,C0264,Online,UPI,Completed
+O000036,2023-07-27,C0068,Online,Credit Card,Completed
+O000037,2025-08-24,C0238,Online,Debit Card,Cancelled
+O000038,2025-03-07,C0059,Retail Store,UPI,Completed
+O000039,2025-04-12,C0394,Marketplace,Net Banking,Completed
+O000040,2023-07-05,C0052,Retail Store,UPI,Completed
+O000041,2025-02-14,C0047,Retail Store,Net Banking,Returned
+O000042,2025-07-04,C0319,Online,UPI,Completed
+O000043,2023-07-11,C0111,Marketplace,UPI,Completed
+O000044,2025-04-02,C0176,Marketplace,Credit Card,Returned
+O000045,2024-01-27,C0158,Online,Net Banking,Completed
+O000046,2025-05-12,C0109,Marketplace,UPI,Cancelled
+O000047,2024-06-07,C0381,Online,Net Banking,Completed
+O000048,2025-05-28,C0346,Marketplace,UPI,Completed
+O000049,2023-06-11,C0120,Marketplace,Credit Card,Completed
+O000050,2024-03-02,C0344,Retail Store,Credit Card,Returned
+O000051,2023-10-27,C0357,Online,UPI,Completed
+O000052,2023-09-29,C0270,Retail Store,Cash,Completed
+O000053,2023-12-04,C0290,Online,Credit Card,Completed
+O000054,2024-02-23,C0468,Retail Store,Debit Card,Completed
+O000055,2023-05-20,C0227,Online,Credit Card,Completed
+O000056,2025-02-13,C0193,Retail Store,Credit Card,Completed
+O000057,2024-08-25,C0270,Marketplace,Debit Card,Completed
+O000058,2025-06-27,C0418,Online,Net Banking,Completed
+O000059,2025-02-11,C0355,Online,Debit Card,Completed
+O000060,2023-06-13,C0038,Retail Store,Credit Card,Completed
+O000061,2023-03-18,C0230,Online,Debit Card,Completed
+O000062,2024-04-07,C0370,Online,Debit Card,Completed
+O000063,2024-06-10,C0112,Online,Credit Card,Completed
+O000064,2023-09-21,C0495,Online,Debit Card,Completed
+O000065,2025-05-06,C0405,Retail Store,Credit Card,Completed
+O000066,2024-09-28,C0424,Retail Store,Debit Card,Completed
+O000067,2025-03-30,C0041,Online,Cash,Completed
+O000068,2023-04-30,C0290,Online,Cash,Completed
+O000069,2025-06-11,C0264,Online,Net Banking,Completed
+O000070,2023-08-14,C0314,Online,Debit Card,Completed
+O000071,2024-05-05,C0426,Retail Store,Debit Card,Completed
+O000072,2024-04-26,C0177,Online,UPI,Completed
+O000073,2025-06-17,C0267,Retail Store,Credit Card,Completed
+O000074,2023-10-31,C0340,Marketplace,UPI,Completed
+O000075,2023-09-21,C0377,Retail Store,UPI,Completed
+O000076,2024-01-07,C0386,Retail Store,Cash,Completed
+O000077,2024-01-31,C0169,Online,Net Banking,Completed
+O000078,2023-07-18,C0500,Online,Credit Card,Completed
+O000079,2023-07-13,C0005,Online,UPI,Completed
+O000080,2023-09-11,C0247,Retail Store,Debit Card,Completed
+O000081,2024-05-26,C0305,Marketplace,Credit Card,Completed
+O000082,2024-01-11,C0031,Online,Net Banking,Completed
+O000083,2024-03-05,C0226,Online,Cash,Completed
+O000084,2025-02-26,C0298,Online,Credit Card,Completed
+O000085,2023-09-21,C0304,Retail Store,UPI,Completed
+O000086,2025-09-23,C0060,Retail Store,UPI,Completed
+O000087,2025-04-03,C0139,Retail Store,UPI,Completed
+O000088,2023-07-11,C0123,Marketplace,Credit Card,Cancelled
+O000089,2023-12-10,C0320,Online,UPI,Completed
+O000090,2023-07-20,C0165,Retail Store,UPI,Completed
+O000091,2023-10-26,C0286,Retail Store,UPI,Completed
+O000092,2024-02-05,C0366,Online,UPI,Completed
+O000093,2023-05-24,C0399,Marketplace,Debit Card,Completed
+O000094,2023-01-16,C0092,Online,UPI,Completed
+O000095,2024-04-25,C0452,Retail Store,Net Banking,Completed
+O000096,2025-02-06,C0083,Retail Store,UPI,Completed
+O000097,2023-11-28,C0011,Marketplace,UPI,Completed
+O000098,2025-07-31,C0023,Retail Store,UPI,Completed
+O000099,2024-02-09,C0101,Online,Debit Card,Cancelled
+O000100,2025-09-13,C0437,Marketplace,UPI,Completed
+O000101,2024-08-13,C0104,Retail Store,Credit Card,Completed
+O000102,2025-04-15,C0347,Retail Store,UPI,Completed
+O000103,2023-03-06,C0210,Retail Store,Cash,Completed
+O000104,2025-10-15,C0020,Online,UPI,Completed
+O000105,2024-02-04,C0223,Retail Store,Credit Card,Completed
+O000106,2024-06-29,C0015,Marketplace,Net Banking,Completed
+O000107,2024-11-19,C0239,Online,UPI,Completed
+O000108,2024-12-05,C0280,Retail Store,UPI,Completed
+O000109,2023-01-26,C0261,Marketplace,Net Banking,Completed
+O000110,2025-08-07,C0142,Retail Store,UPI,Cancelled
+O000111,2024-11-13,C0384,Marketplace,UPI,Returned
+O000112,2025-12-29,C0299,Online,Credit Card,Completed
+O000113,2024-05-31,C0128,Marketplace,UPI,Completed
+O000114,2024-11-02,C0218,Online,Cash,Cancelled
+O000115,2024-04-27,C0055,Retail Store,Debit Card,Completed
+O000116,2025-09-01,C0462,Online,Debit Card,Completed
+O000117,2025-06-30,C0377,Retail Store,UPI,Completed
+O000118,2025-09-21,C0144,Marketplace,Debit Card,Completed
+O000119,2024-07-06,C0338,Retail Store,Debit Card,Completed
+O000120,2025-05-16,C0340,Retail Store,UPI,Completed
+O000121,2024-01-28,C0305,Online,Net Banking,Completed
+O000122,2024-05-19,C0028,Retail Store,Credit Card,Completed
+O000123,2025-04-12,C0440,Retail Store,Net Banking,Completed
+O000124,2023-03-30,C0478,Online,UPI,Completed
+O000125,2025-02-16,C0488,Retail Store,UPI,Completed
+O000126,2023-01-18,C0491,Marketplace,Debit Card,Completed
+O000127,2024-09-27,C0465,Retail Store,Net Banking,Completed
+O000128,2024-06-06,C0370,Retail Store,Credit Card,Completed
+O000129,2024-05-28,C0029,Online,UPI,Completed
+O000130,2024-06-25,C0233,Retail Store,Net Banking,Returned
+O000131,2024-06-22,C0123,Online,UPI,Completed
+O000132,2024-03-22,C0110,Online,UPI,Completed
+O000133,2024-05-09,C0416,Online,Debit Card,Completed
+O000134,2024-09-14,C0407,Online,UPI,Completed
+O000135,2025-04-15,C0262,Online,UPI,Completed
+O000136,2024-08-27,C0369,Retail Store,UPI,Completed
+O000137,2024-12-04,C0065,Online,Cash,Completed
+O000138,2025-07-05,C0111,Online,UPI,Completed
+O000139,2025-12-19,C0431,Online,Debit Card,Completed
+O000140,2023-04-29,C0226,Retail Store,Cash,Completed
+O000141,2025-02-19,C0274,Online,Debit Card,Completed
+O000142,2023-09-04,C0232,Online,Credit Card,Cancelled
+O000143,2023-08-04,C0102,Retail Store,Credit Card,Completed
+O000144,2025-05-18,C0414,Online,Credit Card,Returned
+O000145,2025-07-17,C0380,Marketplace,Debit Card,Completed
+O000146,2025-04-23,C0342,Online,Cash,Completed
+O000147,2025-12-25,C0177,Online,Net Banking,Completed
+O000148,2025-01-01,C0322,Online,Credit Card,Completed
+O000149,2025-08-13,C0477,Retail Store,UPI,Completed
+O000150,2023-05-10,C0325,Online,Net Banking,Completed
+O000151,2025-09-01,C0248,Marketplace,UPI,Completed
+O000152,2023-06-25,C0136,Online,Net Banking,Completed
+O000153,2023-12-11,C0262,Retail Store,UPI,Completed
+O000154,2023-05-21,C0186,Online,Debit Card,Completed
+O000155,2024-03-15,C0306,Online,Net Banking,Completed
+O000156,2025-03-31,C0023,Online,Credit Card,Completed
+O000157,2023-10-21,C0096,Retail Store,UPI,Completed
+O000158,2025-06-19,C0394,Online,Net Banking,Completed
+O000159,2024-10-25,C0191,Marketplace,Credit Card,Completed
+O000160,2024-11-19,C0217,Retail Store,UPI,Completed
+O000161,2025-10-24,C0272,Marketplace,Credit Card,Completed
+O000162,2024-04-17,C0220,Online,Credit Card,Completed
+O000163,2024-01-13,C0380,Retail Store,Debit Card,Returned
+O000164,2025-12-25,C0123,Retail Store,UPI,Cancelled
+O000165,2024-09-01,C0380,Retail Store,Credit Card,Completed
+O000166,2024-11-03,C0105,Marketplace,Net Banking,Completed
+O000167,2023-11-21,C0186,Retail Store,UPI,Completed
+O000168,2023-08-24,C0294,Marketplace,Credit Card,Completed
+O000169,2023-07-05,C0443,Retail Store,Debit Card,Completed
+O000170,2023-09-02,C0117,Online,Net Banking,Completed
+O000171,2023-08-02,C0294,Retail Store,Debit Card,Completed
+O000172,2025-03-28,C0033,Retail Store,Net Banking,Cancelled
+O000173,2023-03-05,C0038,Marketplace,UPI,Completed
+O000174,2024-11-20,C0384,Marketplace,Credit Card,Cancelled
+O000175,2025-11-05,C0360,Online,Cash,Completed
+O000176,2025-04-18,C0189,Online,Net Banking,Completed
+O000177,2024-03-17,C0312,Online,Credit Card,Completed
+O000178,2023-03-07,C0191,Retail Store,Credit Card,Completed
+O000179,2025-07-02,C0139,Online,Credit Card,Completed
+O000180,2023-01-04,C0216,Retail Store,UPI,Completed
+O000181,2025-01-16,C0156,Retail Store,Net Banking,Completed
+O000182,2025-01-04,C0408,Marketplace,Net Banking,Completed
+O000183,2023-07-30,C0206,Online,Credit Card,Completed
+O000184,2025-03-21,C0161,Retail Store,UPI,Completed
+O000185,2023-07-12,C0269,Online,Credit Card,Completed
+O000186,2023-09-05,C0380,Marketplace,UPI,Completed
+O000187,2025-06-08,C0137,Online,Debit Card,Completed
+O000188,2025-12-08,C0470,Online,Credit Card,Completed
+O000189,2023-10-17,C0232,Online,UPI,Completed
+O000190,2025-10-05,C0331,Marketplace,Debit Card,Cancelled
+O000191,2025-09-27,C0479,Online,Cash,Completed
+O000192,2025-04-22,C0216,Retail Store,UPI,Completed
+O000193,2023-06-03,C0100,Retail Store,Credit Card,Completed
+O000194,2023-11-24,C0374,Retail Store,Credit Card,Completed
+O000195,2025-01-12,C0004,Online,UPI,Completed
+O000196,2025-12-30,C0229,Online,Credit Card,Completed
+O000197,2025-06-10,C0490,Online,Debit Card,Completed
+O000198,2024-04-05,C0208,Online,UPI,Completed
+O000199,2023-09-15,C0343,Retail Store,UPI,Returned
+O000200,2025-11-17,C0263,Online,Net Banking,Completed
+O000201,2023-10-30,C0108,Online,UPI,Completed
+O000202,2024-01-10,C0159,Online,Debit Card,Completed
+O000203,2025-11-22,C0262,Retail Store,Debit Card,Completed
+O000204,2024-09-07,C0053,Online,Net Banking,Completed
+O000205,2023-10-17,C0208,Retail Store,Debit Card,Cancelled
+O000206,2023-01-06,C0208,Online,Net Banking,Cancelled
+O000207,2024-04-15,C0418,Marketplace,Debit Card,Completed
+O000208,2025-12-15,C0062,Retail Store,Credit Card,Completed
+O000209,2024-04-18,C0422,Online,Credit Card,Cancelled
+O000210,2025-02-04,C0206,Online,Credit Card,Completed
+O000211,2023-10-05,C0326,Online,Credit Card,Completed
+O000212,2025-04-29,C0279,Online,UPI,Completed
+O000213,2025-04-29,C0150,Online,Credit Card,Completed
+O000214,2024-10-28,C0466,Marketplace,Credit Card,Completed
+O000215,2025-04-25,C0113,Retail Store,UPI,Cancelled
+O000216,2024-09-25,C0019,Online,UPI,Completed
+O000217,2024-02-19,C0376,Retail Store,Debit Card,Completed
+O000218,2025-03-18,C0311,Online,Credit Card,Completed
+O000219,2025-07-03,C0446,Marketplace,Net Banking,Completed
+O000220,2025-07-09,C0229,Online,Credit Card,Completed
+O000221,2023-08-22,C0009,Retail Store,Net Banking,Completed
+O000222,2025-01-10,C0011,Retail Store,Net Banking,Returned
+O000223,2023-01-05,C0217,Online,UPI,Completed
+O000224,2024-09-18,C0125,Online,Cash,Completed
+O000225,2024-09-17,C0462,Online,UPI,Completed
+O000226,2024-02-03,C0060,Marketplace,Debit Card,Completed
+O000227,2025-12-24,C0441,Retail Store,Net Banking,Completed
+O000228,2025-08-24,C0109,Retail Store,UPI,Cancelled
+O000229,2023-02-12,C0060,Retail Store,Debit Card,Completed
+O000230,2023-08-17,C0138,Marketplace,Credit Card,Completed
+O000231,2023-08-16,C0073,Online,UPI,Completed
+O000232,2025-09-09,C0201,Retail Store,UPI,Completed
+O000233,2024-07-22,C0166,Retail Store,UPI,Completed
+O000234,2025-03-09,C0265,Online,UPI,Completed
+O000235,2025-06-05,C0269,Marketplace,Debit Card,Completed
+O000236,2025-04-20,C0001,Online,Credit Card,Completed
+O000237,2023-04-08,C0063,Online,Credit Card,Completed
+O000238,2023-06-03,C0081,Marketplace,Debit Card,Completed
+O000239,2024-03-08,C0098,Online,UPI,Completed
+O000240,2024-01-06,C0047,Online,UPI,Completed
+O000241,2025-03-29,C0158,Online,Net Banking,Completed
+O000242,2023-06-21,C0275,Retail Store,Cash,Completed
+O000243,2024-02-11,C0155,Marketplace,Credit Card,Completed
+O000244,2023-09-17,C0165,Online,UPI,Completed
+O000245,2023-07-26,C0235,Online,Net Banking,Completed
+O000246,2023-07-09,C0275,Online,Net Banking,Returned
+O000247,2023-08-03,C0166,Marketplace,Credit Card,Completed
+O000248,2024-09-09,C0111,Online,UPI,Completed
+O000249,2024-03-25,C0205,Marketplace,UPI,Cancelled
+O000250,2024-04-21,C0013,Marketplace,Debit Card,Completed
+O000251,2024-06-08,C0247,Online,Cash,Completed
+O000252,2025-03-22,C0471,Marketplace,Debit Card,Completed
+O000253,2025-08-01,C0199,Retail Store,UPI,Completed
+O000254,2024-07-30,C0055,Retail Store,Debit Card,Completed
+O000255,2024-12-04,C0354,Online,Net Banking,Completed
+O000256,2025-03-19,C0064,Marketplace,Credit Card,Completed
+O000257,2025-01-25,C0097,Retail Store,Net Banking,Returned
+O000258,2023-05-28,C0074,Retail Store,Credit Card,Returned
+O000259,2025-12-12,C0442,Marketplace,Credit Card,Completed
+O000260,2023-06-30,C0491,Online,Debit Card,Completed
+O000261,2024-03-26,C0285,Marketplace,Credit Card,Returned
+O000262,2024-12-15,C0309,Marketplace,Cash,Completed
+O000263,2024-03-17,C0323,Online,Credit Card,Completed
+O000264,2023-09-24,C0306,Online,Credit Card,Completed
+O000265,2025-10-08,C0273,Online,Credit Card,Completed
+O000266,2023-03-20,C0494,Marketplace,Credit Card,Completed
+O000267,2023-09-27,C0367,Online,Credit Card,Completed
+O000268,2025-12-23,C0045,Retail Store,Debit Card,Returned
+O000269,2025-03-10,C0196,Online,Credit Card,Returned
+O000270,2023-04-06,C0488,Online,Credit Card,Cancelled
+O000271,2025-04-06,C0202,Retail Store,Debit Card,Completed
+O000272,2025-11-27,C0103,Online,UPI,Completed
+O000273,2023-04-18,C0435,Marketplace,Debit Card,Completed
+O000274,2024-03-29,C0312,Online,Credit Card,Completed
+O000275,2024-05-27,C0282,Marketplace,Credit Card,Returned
+O000276,2023-05-24,C0211,Online,Debit Card,Completed
+O000277,2023-08-08,C0063,Marketplace,Debit Card,Completed
+O000278,2023-07-10,C0192,Retail Store,Net Banking,Completed
+O000279,2023-07-22,C0219,Online,Credit Card,Completed
+O000280,2024-03-17,C0466,Online,UPI,Completed
+O000281,2024-05-22,C0154,Online,Debit Card,Completed
+O000282,2023-09-18,C0075,Retail Store,Debit Card,Completed
+O000283,2023-11-13,C0214,Marketplace,Debit Card,Completed
+O000284,2023-07-30,C0499,Online,Credit Card,Completed
+O000285,2025-05-21,C0242,Online,Net Banking,Completed
+O000286,2023-08-20,C0190,Retail Store,UPI,Returned
+O000287,2025-09-20,C0334,Retail Store,Credit Card,Completed
+O000288,2024-08-13,C0325,Retail Store,UPI,Completed
+O000289,2025-05-28,C0150,Online,Credit Card,Completed
+O000290,2024-11-27,C0484,Retail Store,Debit Card,Completed
+O000291,2023-10-19,C0297,Marketplace,Credit Card,Completed
+O000292,2024-10-20,C0029,Online,Credit Card,Completed
+O000293,2023-10-28,C0204,Online,Net Banking,Completed
+O000294,2023-05-10,C0462,Online,Net Banking,Completed
+O000295,2023-10-06,C0197,Retail Store,Credit Card,Completed
+O000296,2023-10-29,C0284,Online,Cash,Returned
+O000297,2023-05-28,C0307,Marketplace,Credit Card,Completed
+O000298,2023-01-26,C0353,Retail Store,Net Banking,Completed
+O000299,2025-10-30,C0437,Retail Store,UPI,Completed
+O000300,2024-07-16,C0075,Retail Store,UPI,Completed
+O000301,2024-03-16,C0259,Online,UPI,Completed
+O000302,2025-10-15,C0267,Marketplace,UPI,Completed
+O000303,2023-09-04,C0077,Online,Credit Card,Completed
+O000304,2024-03-17,C0337,Retail Store,UPI,Returned
+O000305,2025-07-16,C0060,Marketplace,Debit Card,Returned
+O000306,2024-11-23,C0229,Retail Store,UPI,Completed
+O000307,2024-03-13,C0166,Marketplace,UPI,Completed
+O000308,2023-10-08,C0078,Online,Cash,Completed
+O000309,2023-02-08,C0412,Marketplace,Debit Card,Completed
+O000310,2023-04-04,C0123,Retail Store,Cash,Completed
+O000311,2023-06-27,C0128,Retail Store,Credit Card,Completed
+O000312,2025-05-11,C0428,Online,UPI,Completed
+O000313,2024-11-30,C0439,Online,Credit Card,Completed
+O000314,2024-04-19,C0018,Retail Store,Credit Card,Completed
+O000315,2025-05-07,C0139,Online,UPI,Completed
+O000316,2023-06-26,C0355,Retail Store,Net Banking,Completed
+O000317,2023-08-19,C0390,Marketplace,Debit Card,Completed
+O000318,2024-03-06,C0500,Marketplace,Debit Card,Completed
+O000319,2025-10-01,C0278,Online,Credit Card,Completed
+O000320,2024-11-03,C0004,Marketplace,Debit Card,Completed
+O000321,2025-07-20,C0437,Online,UPI,Completed
+O000322,2023-09-29,C0081,Online,Cash,Completed
+O000323,2025-07-17,C0061,Marketplace,Credit Card,Completed
+O000324,2023-03-21,C0338,Online,UPI,Completed
+O000325,2023-09-07,C0302,Online,UPI,Completed
+O000326,2024-07-26,C0030,Online,Debit Card,Completed
+O000327,2023-02-25,C0085,Retail Store,Cash,Completed
+O000328,2025-07-28,C0295,Marketplace,Net Banking,Completed
+O000329,2025-08-07,C0128,Online,Debit Card,Completed
+O000330,2024-08-15,C0343,Online,Cash,Completed
+O000331,2023-12-01,C0206,Retail Store,Debit Card,Completed
+O000332,2024-11-08,C0295,Online,UPI,Completed
+O000333,2024-08-11,C0238,Retail Store,Debit Card,Completed
+O000334,2025-04-12,C0183,Marketplace,UPI,Completed
+O000335,2024-10-21,C0172,Retail Store,UPI,Completed
+O000336,2023-05-21,C0349,Marketplace,Credit Card,Completed
+O000337,2023-05-14,C0258,Retail Store,UPI,Completed
+O000338,2025-05-05,C0298,Marketplace,Cash,Completed
+O000339,2023-06-24,C0289,Online,Cash,Completed
+O000340,2025-10-24,C0104,Online,Credit Card,Completed
+O000341,2023-04-27,C0457,Retail Store,Debit Card,Completed
+O000342,2025-03-08,C0282,Online,Credit Card,Completed
+O000343,2025-12-03,C0360,Marketplace,UPI,Completed
+O000344,2024-04-28,C0441,Retail Store,UPI,Completed
+O000345,2023-03-04,C0463,Marketplace,UPI,Cancelled
+O000346,2025-08-17,C0334,Online,UPI,Completed
+O000347,2023-07-25,C0394,Retail Store,UPI,Completed
+O000348,2024-07-31,C0236,Retail Store,UPI,Completed
+O000349,2025-12-14,C0369,Online,UPI,Completed
+O000350,2025-03-26,C0161,Retail Store,Cash,Completed
+O000351,2023-02-20,C0356,Retail Store,UPI,Completed
+O000352,2025-06-17,C0043,Marketplace,UPI,Completed
+O000353,2023-06-26,C0458,Retail Store,Credit Card,Completed
+O000354,2025-03-31,C0123,Online,Credit Card,Completed
+O000355,2024-11-10,C0329,Online,Credit Card,Completed
+O000356,2023-11-12,C0006,Retail Store,UPI,Completed
+O000357,2024-04-08,C0078,Online,Debit Card,Completed
+O000358,2023-05-10,C0494,Online,Credit Card,Completed
+O000359,2025-12-16,C0417,Online,Debit Card,Returned
+O000360,2023-09-18,C0112,Online,Credit Card,Completed
+O000361,2023-12-05,C0066,Retail Store,Credit Card,Completed
+O000362,2024-07-04,C0408,Online,Credit Card,Cancelled
+O000363,2025-01-06,C0496,Retail Store,UPI,Completed
+O000364,2024-07-07,C0085,Online,Credit Card,Completed
+O000365,2024-07-07,C0332,Retail Store,UPI,Cancelled
+O000366,2024-09-29,C0142,Online,UPI,Completed
+O000367,2025-07-28,C0373,Marketplace,Debit Card,Completed
+O000368,2024-03-08,C0210,Online,UPI,Completed
+O000369,2025-06-30,C0063,Retail Store,UPI,Completed
+O000370,2025-05-11,C0163,Online,Debit Card,Completed
+O000371,2025-11-18,C0270,Online,Credit Card,Completed
+O000372,2025-09-26,C0400,Online,Net Banking,Returned
+O000373,2025-05-24,C0011,Marketplace,Cash,Completed
+O000374,2023-09-28,C0479,Marketplace,Cash,Completed
+O000375,2025-04-27,C0325,Online,Credit Card,Returned
+O000376,2025-03-17,C0438,Online,UPI,Completed
+O000377,2023-11-14,C0466,Retail Store,Debit Card,Completed
+O000378,2025-01-12,C0077,Retail Store,Debit Card,Completed
+O000379,2023-10-05,C0047,Online,Debit Card,Completed
+O000380,2024-07-26,C0389,Retail Store,UPI,Completed
+O000381,2025-05-22,C0094,Retail Store,UPI,Completed
+O000382,2023-07-26,C0074,Retail Store,UPI,Completed
+O000383,2024-01-04,C0235,Online,UPI,Completed
+O000384,2025-05-20,C0457,Online,UPI,Completed
+O000385,2024-05-11,C0398,Online,Cash,Completed
+O000386,2025-11-17,C0259,Retail Store,UPI,Completed
+O000387,2023-01-09,C0099,Online,Debit Card,Completed
+O000388,2025-03-01,C0169,Retail Store,Cash,Completed
+O000389,2025-06-10,C0345,Retail Store,Credit Card,Completed
+O000390,2025-10-02,C0079,Retail Store,Credit Card,Completed
+O000391,2023-06-21,C0263,Online,Debit Card,Completed
+O000392,2025-12-13,C0006,Online,UPI,Completed
+O000393,2024-03-05,C0163,Online,Credit Card,Completed
+O000394,2024-01-21,C0124,Retail Store,Net Banking,Completed
+O000395,2024-01-25,C0341,Marketplace,Debit Card,Completed
+O000396,2024-11-29,C0458,Online,Net Banking,Completed
+O000397,2024-12-22,C0074,Marketplace,Cash,Completed
+O000398,2024-06-02,C0399,Online,Credit Card,Completed
+O000399,2023-03-19,C0328,Online,Debit Card,Completed
+O000400,2025-12-16,C0485,Online,Debit Card,Completed
+O000401,2023-09-01,C0456,Retail Store,Debit Card,Completed
+O000402,2023-04-13,C0051,Online,Debit Card,Cancelled
+O000403,2024-10-16,C0372,Online,Debit Card,Completed
+O000404,2024-03-27,C0297,Retail Store,Net Banking,Completed
+O000405,2024-11-05,C0057,Retail Store,Credit Card,Completed
+O000406,2025-08-16,C0129,Online,Debit Card,Completed
+O000407,2023-04-17,C0464,Online,UPI,Completed
+O000408,2023-11-08,C0272,Retail Store,Debit Card,Cancelled
+O000409,2024-07-19,C0170,Online,Debit Card,Completed
+O000410,2024-10-19,C0161,Online,Net Banking,Completed
+O000411,2024-02-24,C0419,Retail Store,Credit Card,Completed
+O000412,2024-10-30,C0142,Online,Credit Card,Completed
+O000413,2025-12-09,C0080,Retail Store,UPI,Completed
+O000414,2024-06-09,C0287,Online,UPI,Completed
+O000415,2025-08-25,C0497,Online,UPI,Completed
+O000416,2025-05-04,C0092,Online,Cash,Completed
+O000417,2023-11-26,C0128,Online,UPI,Completed
+O000418,2023-10-01,C0235,Online,Cash,Completed
+O000419,2025-04-23,C0100,Online,UPI,Completed
+O000420,2023-08-16,C0326,Marketplace,Debit Card,Completed
+O000421,2024-01-04,C0127,Marketplace,Credit Card,Completed
+O000422,2023-09-15,C0065,Online,Debit Card,Completed
+O000423,2024-10-25,C0131,Retail Store,Debit Card,Completed
+O000424,2023-11-19,C0466,Retail Store,Debit Card,Completed
+O000425,2024-12-22,C0468,Marketplace,Cash,Completed
+O000426,2025-10-20,C0253,Online,Credit Card,Completed
+O000427,2025-06-27,C0201,Online,UPI,Completed
+O000428,2025-11-04,C0410,Online,UPI,Completed
+O000429,2023-01-27,C0098,Online,Debit Card,Completed
+O000430,2024-05-13,C0327,Online,Credit Card,Returned
+O000431,2023-08-30,C0341,Marketplace,Credit Card,Completed
+O000432,2025-10-02,C0356,Marketplace,Debit Card,Completed
+O000433,2025-02-18,C0109,Online,Credit Card,Completed
+O000434,2023-12-17,C0359,Online,Net Banking,Completed
+O000435,2024-09-09,C0306,Online,Debit Card,Completed
+O000436,2024-10-24,C0438,Retail Store,Debit Card,Completed
+O000437,2024-06-26,C0088,Retail Store,Debit Card,Completed
+O000438,2024-06-03,C0307,Online,Net Banking,Completed
+O000439,2023-03-02,C0415,Marketplace,Debit Card,Returned
+O000440,2024-05-10,C0140,Marketplace,Cash,Completed
+O000441,2024-01-17,C0372,Retail Store,UPI,Completed
+O000442,2025-06-14,C0050,Retail Store,Debit Card,Completed
+O000443,2025-08-05,C0360,Retail Store,Debit Card,Completed
+O000444,2025-04-01,C0304,Online,Credit Card,Completed
+O000445,2023-02-03,C0097,Online,UPI,Completed
+O000446,2025-07-10,C0034,Retail Store,Credit Card,Completed
+O000447,2024-03-10,C0373,Online,Credit Card,Completed
+O000448,2024-03-31,C0121,Marketplace,Cash,Cancelled
+O000449,2025-10-31,C0249,Online,Credit Card,Returned
+O000450,2025-08-07,C0031,Online,UPI,Completed
+O000451,2023-02-25,C0482,Online,Credit Card,Completed
+O000452,2024-01-30,C0275,Marketplace,Credit Card,Completed
+O000453,2025-03-31,C0466,Online,UPI,Cancelled
+O000454,2024-08-13,C0081,Online,Credit Card,Completed
+O000455,2023-10-10,C0103,Online,Credit Card,Completed
+O000456,2024-07-28,C0306,Retail Store,UPI,Completed
+O000457,2025-08-06,C0303,Marketplace,Debit Card,Completed
+O000458,2023-09-02,C0396,Online,Credit Card,Completed
+O000459,2025-03-27,C0465,Marketplace,Net Banking,Completed
+O000460,2025-03-15,C0411,Online,Credit Card,Completed
+O000461,2025-08-27,C0071,Retail Store,UPI,Completed
+O000462,2023-11-23,C0155,Online,Cash,Completed
+O000463,2023-08-25,C0457,Retail Store,Credit Card,Completed
+O000464,2024-08-22,C0275,Retail Store,UPI,Cancelled
+O000465,2024-08-04,C0434,Retail Store,Net Banking,Completed
+O000466,2024-03-24,C0282,Online,UPI,Completed
+O000467,2025-05-03,C0025,Marketplace,Net Banking,Completed
+O000468,2025-05-24,C0237,Marketplace,Debit Card,Completed
+O000469,2023-09-27,C0413,Online,Cash,Cancelled
+O000470,2025-05-21,C0328,Retail Store,Cash,Completed
+O000471,2023-09-10,C0067,Retail Store,UPI,Cancelled
+O000472,2024-03-22,C0106,Online,Net Banking,Completed
+O000473,2023-01-30,C0428,Marketplace,UPI,Completed
+O000474,2024-01-08,C0490,Online,Debit Card,Completed
+O000475,2025-11-15,C0377,Retail Store,Debit Card,Completed
+O000476,2024-04-29,C0050,Online,UPI,Completed
+O000477,2025-02-16,C0310,Online,UPI,Cancelled
+O000478,2023-04-29,C0415,Retail Store,UPI,Returned
+O000479,2024-11-26,C0321,Retail Store,UPI,Completed
+O000480,2024-02-11,C0298,Marketplace,UPI,Returned
+O000481,2025-03-25,C0234,Marketplace,Cash,Returned
+O000482,2025-10-13,C0123,Online,Credit Card,Completed
+O000483,2024-08-05,C0141,Online,Net Banking,Completed
+O000484,2023-04-23,C0373,Online,Net Banking,Completed
+O000485,2024-06-05,C0035,Online,Debit Card,Completed
+O000486,2023-05-15,C0043,Retail Store,Credit Card,Completed
+O000487,2024-05-07,C0199,Marketplace,Net Banking,Cancelled
+O000488,2023-03-08,C0388,Retail Store,Debit Card,Completed
+O000489,2024-12-02,C0329,Online,Debit Card,Completed
+O000490,2023-12-06,C0295,Online,Cash,Completed
+O000491,2023-08-09,C0268,Retail Store,Debit Card,Completed
+O000492,2023-01-19,C0056,Online,Credit Card,Completed
+O000493,2025-08-30,C0166,Online,Net Banking,Completed
+O000494,2025-07-05,C0040,Online,Credit Card,Completed
+O000495,2025-06-07,C0380,Online,Net Banking,Completed
+O000496,2023-03-05,C0376,Online,UPI,Completed
+O000497,2024-01-18,C0130,Retail Store,UPI,Completed
+O000498,2025-11-29,C0147,Online,Credit Card,Completed
+O000499,2024-09-25,C0159,Retail Store,UPI,Completed
+O000500,2023-05-21,C0445,Retail Store,Cash,Completed
+O000501,2023-06-04,C0245,Marketplace,UPI,Completed
+O000502,2023-10-16,C0382,Online,Debit Card,Completed
+O000503,2025-11-30,C0225,Online,UPI,Completed
+O000504,2023-07-05,C0350,Online,Cash,Returned
+O000505,2025-09-15,C0265,Online,Credit Card,Returned
+O000506,2025-01-12,C0140,Online,UPI,Completed
+O000507,2025-10-06,C0439,Retail Store,UPI,Completed
+O000508,2025-06-23,C0355,Online,Credit Card,Completed
+O000509,2023-12-30,C0385,Online,Cash,Returned
+O000510,2025-06-25,C0475,Online,Cash,Completed
+O000511,2023-07-05,C0125,Retail Store,UPI,Completed
+O000512,2023-11-15,C0046,Marketplace,Credit Card,Completed
+O000513,2023-08-20,C0292,Retail Store,UPI,Completed
+O000514,2023-05-26,C0164,Retail Store,Credit Card,Completed
+O000515,2023-04-09,C0218,Retail Store,Debit Card,Completed
+O000516,2023-07-25,C0118,Retail Store,UPI,Completed
+O000517,2023-05-12,C0200,Online,Debit Card,Completed
+O000518,2024-02-21,C0197,Retail Store,Net Banking,Completed
+O000519,2023-03-20,C0176,Retail Store,UPI,Completed
+O000520,2023-03-09,C0372,Online,UPI,Completed
+O000521,2025-12-19,C0297,Retail Store,UPI,Cancelled
+O000522,2023-04-07,C0238,Retail Store,UPI,Completed
+O000523,2023-03-23,C0057,Retail Store,UPI,Returned
+O000524,2023-02-02,C0286,Online,Debit Card,Completed
+O000525,2023-05-26,C0088,Retail Store,UPI,Completed
+O000526,2024-08-01,C0158,Marketplace,Debit Card,Completed
+O000527,2025-06-24,C0208,Online,Net Banking,Completed
+O000528,2025-03-15,C0071,Online,Cash,Completed
+O000529,2024-09-27,C0195,Online,Debit Card,Cancelled
+O000530,2023-04-04,C0134,Online,UPI,Cancelled
+O000531,2025-04-27,C0425,Marketplace,UPI,Completed
+O000532,2023-02-10,C0430,Retail Store,UPI,Completed
+O000533,2024-11-21,C0003,Online,Cash,Completed
+O000534,2024-03-24,C0302,Online,Cash,Completed
+O000535,2025-08-23,C0321,Marketplace,Credit Card,Completed
+O000536,2023-12-03,C0189,Online,UPI,Completed
+O000537,2024-11-30,C0235,Retail Store,Credit Card,Completed
+O000538,2024-04-26,C0395,Online,UPI,Completed
+O000539,2024-07-25,C0189,Online,Cash,Returned
+O000540,2025-10-24,C0033,Retail Store,UPI,Completed
+O000541,2024-03-29,C0187,Online,Credit Card,Completed
+O000542,2024-05-04,C0127,Retail Store,Credit Card,Completed
+O000543,2025-02-10,C0192,Online,UPI,Completed
+O000544,2024-01-14,C0116,Retail Store,Credit Card,Completed
+O000545,2023-07-03,C0075,Retail Store,Net Banking,Completed
+O000546,2024-05-27,C0493,Retail Store,UPI,Completed
+O000547,2023-03-16,C0065,Online,Debit Card,Completed
+O000548,2023-07-05,C0354,Retail Store,Credit Card,Completed
+O000549,2024-04-05,C0359,Marketplace,UPI,Completed
+O000550,2025-05-22,C0309,Online,UPI,Completed
+O000551,2025-05-05,C0456,Online,UPI,Completed
+O000552,2023-10-13,C0003,Marketplace,UPI,Completed
+O000553,2024-04-07,C0151,Online,Credit Card,Completed
+O000554,2023-06-18,C0093,Retail Store,Net Banking,Completed
+O000555,2025-04-06,C0289,Retail Store,Debit Card,Completed
+O000556,2023-09-27,C0318,Online,Cash,Completed
+O000557,2025-05-25,C0449,Retail Store,Credit Card,Completed
+O000558,2025-07-11,C0190,Retail Store,Debit Card,Completed
+O000559,2025-01-24,C0118,Online,Debit Card,Completed
+O000560,2023-12-28,C0463,Marketplace,UPI,Completed
+O000561,2025-11-09,C0337,Online,UPI,Completed
+O000562,2025-01-21,C0383,Online,Credit Card,Completed
+O000563,2024-12-08,C0223,Marketplace,Net Banking,Completed
+O000564,2025-07-26,C0224,Online,Credit Card,Completed
+O000565,2025-08-23,C0195,Marketplace,UPI,Completed
+O000566,2023-03-27,C0375,Online,Cash,Completed
+O000567,2025-08-23,C0106,Retail Store,UPI,Completed
+O000568,2025-04-17,C0488,Online,Cash,Completed
+O000569,2023-08-15,C0088,Retail Store,Net Banking,Completed
+O000570,2023-12-03,C0231,Retail Store,Net Banking,Completed
+O000571,2025-04-04,C0158,Marketplace,Net Banking,Completed
+O000572,2023-08-26,C0322,Marketplace,UPI,Completed
+O000573,2024-05-10,C0341,Retail Store,Debit Card,Completed
+O000574,2025-01-24,C0460,Retail Store,Debit Card,Completed
+O000575,2024-12-13,C0395,Retail Store,Debit Card,Completed
+O000576,2025-09-23,C0125,Marketplace,UPI,Completed
+O000577,2023-05-03,C0104,Retail Store,UPI,Completed
+O000578,2023-11-20,C0444,Marketplace,UPI,Completed
+O000579,2025-12-14,C0244,Online,Credit Card,Completed
+O000580,2024-09-14,C0049,Retail Store,Credit Card,Completed
+O000581,2023-09-30,C0413,Retail Store,Net Banking,Returned
+O000582,2023-11-14,C0325,Online,Net Banking,Completed
+O000583,2024-01-07,C0013,Online,Debit Card,Completed
+O000584,2024-08-29,C0392,Marketplace,UPI,Completed
+O000585,2023-11-08,C0304,Online,Credit Card,Completed
+O000586,2024-11-11,C0308,Online,UPI,Completed
+O000587,2024-05-02,C0433,Online,UPI,Completed
+O000588,2024-10-30,C0248,Online,UPI,Completed
+O000589,2023-06-19,C0231,Retail Store,UPI,Completed
+O000590,2024-11-13,C0309,Marketplace,UPI,Completed
+O000591,2025-10-09,C0099,Marketplace,Credit Card,Completed
+O000592,2023-05-28,C0076,Retail Store,UPI,Completed
+O000593,2023-12-25,C0422,Retail Store,UPI,Completed
+O000594,2025-01-29,C0108,Online,UPI,Returned
+O000595,2024-11-07,C0253,Marketplace,Debit Card,Completed
+O000596,2025-01-08,C0135,Online,Credit Card,Completed
+O000597,2024-09-04,C0116,Online,UPI,Cancelled
+O000598,2025-01-17,C0299,Marketplace,UPI,Completed
+O000599,2024-10-29,C0402,Marketplace,Cash,Returned
+O000600,2023-03-23,C0221,Online,Debit Card,Completed
+O000601,2025-04-02,C0070,Retail Store,Debit Card,Completed
+O000602,2024-05-04,C0123,Online,Credit Card,Completed
+O000603,2023-02-26,C0083,Online,Net Banking,Completed
+O000604,2024-03-23,C0442,Online,Net Banking,Completed
+O000605,2024-04-21,C0160,Online,Credit Card,Completed
+O000606,2023-04-05,C0187,Retail Store,Debit Card,Completed
+O000607,2025-12-26,C0036,Online,UPI,Completed
+O000608,2023-09-01,C0224,Retail Store,Debit Card,Completed
+O000609,2023-12-29,C0457,Online,Credit Card,Completed
+O000610,2024-04-27,C0205,Marketplace,UPI,Completed
+O000611,2025-06-30,C0326,Retail Store,Cash,Returned
+O000612,2025-03-24,C0091,Marketplace,Net Banking,Completed
+O000613,2025-04-24,C0072,Online,UPI,Completed
+O000614,2023-09-17,C0366,Retail Store,Cash,Completed
+O000615,2025-07-14,C0033,Marketplace,UPI,Completed
+O000616,2025-06-27,C0225,Online,Credit Card,Completed
+O000617,2024-05-22,C0159,Online,Net Banking,Returned
+O000618,2024-08-20,C0009,Online,UPI,Completed
+O000619,2023-02-10,C0266,Online,Credit Card,Completed
+O000620,2025-04-12,C0483,Online,Debit Card,Cancelled
+O000621,2025-11-18,C0035,Online,UPI,Completed
+O000622,2024-06-01,C0408,Online,Credit Card,Completed
+O000623,2024-08-14,C0270,Retail Store,UPI,Completed
+O000624,2024-06-30,C0362,Online,Debit Card,Completed
+O000625,2023-04-01,C0049,Online,UPI,Completed
+O000626,2024-11-09,C0435,Retail Store,UPI,Completed
+O000627,2025-02-28,C0006,Online,Debit Card,Completed
+O000628,2025-10-13,C0454,Online,UPI,Completed
+O000629,2025-10-15,C0329,Online,Credit Card,Completed
+O000630,2024-06-22,C0169,Online,Debit Card,Completed
+O000631,2024-08-01,C0004,Online,Net Banking,Returned
+O000632,2024-12-04,C0306,Online,UPI,Completed
+O000633,2024-10-21,C0044,Online,Net Banking,Completed
+O000634,2025-12-29,C0305,Marketplace,Debit Card,Completed
+O000635,2025-03-18,C0387,Marketplace,UPI,Completed
+O000636,2023-05-12,C0134,Online,Net Banking,Completed
+O000637,2023-03-20,C0120,Online,Debit Card,Completed
+O000638,2024-03-24,C0111,Online,Debit Card,Completed
+O000639,2024-07-18,C0113,Marketplace,Credit Card,Completed
+O000640,2025-01-02,C0057,Marketplace,Debit Card,Completed
+O000641,2024-06-11,C0125,Online,Cash,Completed
+O000642,2024-07-17,C0330,Online,Credit Card,Completed
+O000643,2025-10-06,C0152,Online,Net Banking,Completed
+O000644,2024-01-02,C0391,Marketplace,Debit Card,Completed
+O000645,2024-06-24,C0410,Marketplace,Net Banking,Completed
+O000646,2024-09-02,C0381,Online,Cash,Completed
+O000647,2024-05-27,C0270,Retail Store,UPI,Returned
+O000648,2025-11-26,C0159,Online,UPI,Completed
+O000649,2025-11-19,C0465,Retail Store,Debit Card,Completed
+O000650,2024-07-15,C0103,Marketplace,Credit Card,Completed
+O000651,2024-05-08,C0233,Online,Credit Card,Completed
+O000652,2024-10-06,C0227,Online,Net Banking,Completed
+O000653,2023-07-18,C0373,Retail Store,Cash,Completed
+O000654,2024-04-11,C0274,Online,Credit Card,Completed
+O000655,2023-08-26,C0400,Marketplace,Debit Card,Cancelled
+O000656,2023-06-07,C0460,Online,UPI,Cancelled
+O000657,2023-04-15,C0196,Marketplace,Credit Card,Returned
+O000658,2024-10-04,C0438,Online,UPI,Returned
+O000659,2023-01-01,C0085,Online,Credit Card,Completed
+O000660,2024-12-08,C0459,Online,Credit Card,Cancelled
+O000661,2024-04-17,C0089,Online,Debit Card,Returned
+O000662,2024-02-06,C0426,Online,Debit Card,Completed
+O000663,2025-04-22,C0196,Retail Store,Credit Card,Completed
+O000664,2024-08-12,C0483,Online,UPI,Completed
+O000665,2025-03-14,C0065,Online,UPI,Completed
+O000666,2025-02-15,C0233,Online,Cash,Completed
+O000667,2023-02-05,C0451,Online,Cash,Completed
+O000668,2023-08-24,C0024,Marketplace,UPI,Completed
+O000669,2024-09-16,C0133,Marketplace,UPI,Completed
+O000670,2025-12-04,C0042,Online,Credit Card,Completed
+O000671,2023-06-18,C0161,Retail Store,Debit Card,Cancelled
+O000672,2023-04-26,C0196,Retail Store,Credit Card,Completed
+O000673,2025-10-27,C0310,Marketplace,UPI,Completed
+O000674,2025-11-24,C0129,Online,Credit Card,Completed
+O000675,2023-07-03,C0080,Online,UPI,Completed
+O000676,2024-03-15,C0085,Online,UPI,Completed
+O000677,2024-11-17,C0470,Marketplace,UPI,Completed
+O000678,2023-08-02,C0477,Retail Store,Debit Card,Completed
+O000679,2023-12-24,C0111,Online,Credit Card,Completed
+O000680,2024-03-08,C0098,Online,UPI,Completed
+O000681,2024-12-03,C0028,Retail Store,Credit Card,Completed
+O000682,2023-12-04,C0480,Marketplace,Credit Card,Completed
+O000683,2024-03-27,C0354,Online,Net Banking,Completed
+O000684,2023-11-14,C0381,Retail Store,Cash,Completed
+O000685,2025-04-11,C0146,Online,UPI,Completed
+O000686,2023-06-17,C0321,Online,Net Banking,Completed
+O000687,2023-09-10,C0030,Retail Store,Debit Card,Completed
+O000688,2023-10-01,C0339,Retail Store,Debit Card,Completed
+O000689,2025-09-18,C0290,Marketplace,Credit Card,Completed
+O000690,2025-10-31,C0166,Online,Credit Card,Completed
+O000691,2024-07-01,C0356,Online,UPI,Cancelled
+O000692,2023-06-21,C0324,Online,Cash,Completed
+O000693,2025-04-07,C0220,Online,Debit Card,Completed
+O000694,2024-06-22,C0094,Online,Credit Card,Completed
+O000695,2025-07-19,C0012,Online,Credit Card,Completed
+O000696,2024-01-30,C0469,Online,UPI,Returned
+O000697,2025-12-29,C0141,Online,UPI,Completed
+O000698,2025-06-02,C0151,Online,Debit Card,Completed
+O000699,2023-09-03,C0341,Retail Store,Credit Card,Completed
+O000700,2025-03-05,C0128,Online,Net Banking,Completed
+O000701,2023-11-11,C0188,Retail Store,Debit Card,Completed
+O000702,2024-01-19,C0356,Marketplace,Debit Card,Completed
+O000703,2023-10-02,C0298,Retail Store,Net Banking,Completed
+O000704,2025-01-17,C0329,Online,UPI,Completed
+O000705,2023-10-15,C0003,Online,Debit Card,Completed
+O000706,2024-11-30,C0226,Retail Store,Debit Card,Completed
+O000707,2024-09-29,C0238,Retail Store,UPI,Completed
+O000708,2025-04-02,C0317,Online,UPI,Completed
+O000709,2025-12-23,C0076,Online,UPI,Completed
+O000710,2023-01-10,C0080,Retail Store,UPI,Cancelled
+O000711,2025-12-20,C0382,Online,Credit Card,Completed
+O000712,2023-04-30,C0337,Retail Store,UPI,Completed
+O000713,2024-07-30,C0406,Online,Debit Card,Completed
+O000714,2024-01-09,C0136,Online,UPI,Completed
+O000715,2024-11-30,C0499,Marketplace,UPI,Completed
+O000716,2025-03-01,C0137,Online,UPI,Completed
+O000717,2025-07-30,C0326,Retail Store,UPI,Completed
+O000718,2024-03-16,C0082,Online,Cash,Returned
+O000719,2025-10-18,C0460,Online,UPI,Completed
+O000720,2023-12-20,C0167,Marketplace,UPI,Completed
+O000721,2023-08-12,C0402,Online,UPI,Cancelled
+O000722,2024-02-20,C0166,Online,Credit Card,Completed
+O000723,2024-08-01,C0396,Marketplace,Debit Card,Completed
+O000724,2025-01-01,C0228,Retail Store,Net Banking,Completed
+O000725,2025-06-30,C0032,Retail Store,Credit Card,Completed
+O000726,2023-09-04,C0096,Online,Debit Card,Completed
+O000727,2023-11-29,C0342,Online,Credit Card,Completed
+O000728,2025-10-24,C0097,Retail Store,Net Banking,Completed
+O000729,2024-04-26,C0138,Online,Credit Card,Completed
+O000730,2023-09-22,C0271,Online,UPI,Completed
+O000731,2025-12-15,C0127,Retail Store,Debit Card,Completed
+O000732,2024-05-06,C0065,Online,Net Banking,Completed
+O000733,2025-12-14,C0313,Online,Credit Card,Completed
+O000734,2025-10-03,C0345,Online,Cash,Completed
+O000735,2025-09-19,C0367,Online,Net Banking,Completed
+O000736,2024-09-29,C0472,Retail Store,UPI,Returned
+O000737,2025-05-24,C0063,Marketplace,Net Banking,Completed
+O000738,2025-11-17,C0214,Online,Debit Card,Completed
+O000739,2023-10-22,C0117,Online,Credit Card,Cancelled
+O000740,2023-02-11,C0451,Retail Store,Credit Card,Returned
+O000741,2023-12-18,C0270,Online,Net Banking,Completed
+O000742,2024-11-28,C0050,Retail Store,Debit Card,Completed
+O000743,2024-08-22,C0347,Marketplace,Credit Card,Completed
+O000744,2023-03-30,C0022,Retail Store,UPI,Completed
+O000745,2024-09-06,C0138,Online,Credit Card,Completed
+O000746,2023-07-10,C0361,Marketplace,Cash,Completed
+O000747,2024-07-07,C0254,Online,Debit Card,Completed
+O000748,2024-09-22,C0381,Marketplace,UPI,Completed
+O000749,2024-11-28,C0286,Retail Store,Net Banking,Returned
+O000750,2024-03-27,C0422,Retail Store,Net Banking,Completed
+O000751,2024-03-23,C0282,Marketplace,Credit Card,Completed
+O000752,2025-01-13,C0029,Retail Store,UPI,Completed
+O000753,2025-03-31,C0036,Online,Credit Card,Completed
+O000754,2025-06-03,C0389,Online,UPI,Completed
+O000755,2024-01-01,C0020,Retail Store,UPI,Completed
+O000756,2024-04-09,C0189,Retail Store,Debit Card,Completed
+O000757,2023-12-29,C0009,Online,Cash,Completed
+O000758,2024-07-31,C0152,Retail Store,Credit Card,Completed
+O000759,2023-05-20,C0298,Retail Store,Net Banking,Completed
+O000760,2024-04-15,C0087,Online,Cash,Completed
+O000761,2023-07-26,C0234,Online,UPI,Completed
+O000762,2024-08-05,C0499,Online,UPI,Completed
+O000763,2025-07-20,C0036,Online,Debit Card,Completed
+O000764,2025-12-15,C0032,Online,Debit Card,Completed
+O000765,2024-05-03,C0136,Online,Credit Card,Completed
+O000766,2023-03-03,C0414,Online,Debit Card,Completed
+O000767,2023-09-07,C0203,Online,Debit Card,Completed
+O000768,2023-04-25,C0320,Retail Store,Debit Card,Completed
+O000769,2025-04-11,C0017,Online,Debit Card,Completed
+O000770,2025-12-14,C0368,Marketplace,UPI,Completed
+O000771,2024-08-29,C0034,Marketplace,UPI,Completed
+O000772,2023-07-13,C0356,Retail Store,UPI,Completed
+O000773,2023-01-24,C0074,Marketplace,Cash,Completed
+O000774,2025-12-04,C0430,Marketplace,Cash,Completed
+O000775,2023-12-13,C0149,Online,Net Banking,Completed
+O000776,2023-05-03,C0092,Retail Store,UPI,Completed
+O000777,2023-07-13,C0169,Online,Credit Card,Completed
+O000778,2023-10-07,C0001,Retail Store,UPI,Returned
+O000779,2024-12-19,C0083,Retail Store,Credit Card,Completed
+O000780,2025-09-03,C0300,Online,UPI,Completed
+O000781,2023-10-29,C0151,Online,Net Banking,Completed
+O000782,2025-01-22,C0177,Marketplace,UPI,Completed
+O000783,2023-03-13,C0404,Online,Debit Card,Completed
+O000784,2023-01-12,C0062,Online,Cash,Completed
+O000785,2023-03-02,C0198,Online,Debit Card,Completed
+O000786,2025-10-07,C0094,Online,UPI,Completed
+O000787,2024-09-28,C0242,Marketplace,Cash,Completed
+O000788,2025-05-31,C0166,Retail Store,Debit Card,Completed
+O000789,2023-01-24,C0024,Online,Credit Card,Completed
+O000790,2023-01-25,C0036,Online,Debit Card,Completed
+O000791,2025-07-18,C0427,Online,Net Banking,Completed
+O000792,2023-04-23,C0029,Online,Credit Card,Completed
+O000793,2023-06-20,C0392,Marketplace,Credit Card,Completed
+O000794,2024-07-22,C0459,Retail Store,Credit Card,Completed
+O000795,2024-10-26,C0233,Online,UPI,Completed
+O000796,2023-09-08,C0157,Retail Store,Net Banking,Completed
+O000797,2024-05-01,C0389,Online,UPI,Completed
+O000798,2025-01-08,C0492,Retail Store,Credit Card,Completed
+O000799,2024-04-29,C0061,Retail Store,Credit Card,Completed
+O000800,2024-02-24,C0483,Retail Store,UPI,Completed
+O000801,2023-03-20,C0472,Retail Store,Credit Card,Completed
+O000802,2024-05-09,C0072,Marketplace,Debit Card,Completed
+O000803,2025-05-29,C0028,Online,UPI,Cancelled
+O000804,2024-11-17,C0358,Online,UPI,Completed
+O000805,2025-09-04,C0039,Online,Net Banking,Completed
+O000806,2023-05-19,C0301,Retail Store,Cash,Completed
+O000807,2023-01-13,C0033,Retail Store,Credit Card,Completed
+O000808,2024-08-23,C0346,Retail Store,UPI,Returned
+O000809,2023-07-15,C0116,Retail Store,UPI,Completed
+O000810,2024-10-12,C0049,Online,UPI,Returned
+O000811,2025-09-16,C0034,Retail Store,Credit Card,Completed
+O000812,2024-01-05,C0095,Retail Store,Cash,Completed
+O000813,2024-08-24,C0271,Online,Debit Card,Completed
+O000814,2025-01-16,C0039,Online,Credit Card,Completed
+O000815,2023-06-14,C0402,Online,Cash,Returned
+O000816,2025-09-09,C0303,Online,Credit Card,Completed
+O000817,2023-08-11,C0149,Retail Store,UPI,Completed
+O000818,2025-06-04,C0494,Marketplace,Credit Card,Completed
+O000819,2024-12-23,C0330,Retail Store,UPI,Completed
+O000820,2023-06-04,C0336,Online,Net Banking,Completed
+O000821,2025-03-04,C0087,Retail Store,Credit Card,Completed
+O000822,2023-08-04,C0356,Retail Store,Debit Card,Completed
+O000823,2024-10-18,C0280,Online,Credit Card,Completed
+O000824,2025-11-16,C0493,Marketplace,Cash,Completed
+O000825,2025-11-09,C0239,Online,Debit Card,Completed
+O000826,2025-08-12,C0340,Online,Credit Card,Completed
+O000827,2024-06-24,C0171,Online,UPI,Completed
+O000828,2024-09-04,C0021,Online,Cash,Cancelled
+O000829,2023-11-25,C0064,Marketplace,Credit Card,Completed
+O000830,2025-10-05,C0434,Online,UPI,Completed
+O000831,2024-06-06,C0370,Online,Net Banking,Completed
+O000832,2025-04-24,C0183,Online,UPI,Completed
+O000833,2024-01-29,C0349,Online,UPI,Completed
+O000834,2025-03-21,C0003,Online,Credit Card,Completed
+O000835,2023-09-03,C0019,Online,UPI,Completed
+O000836,2025-03-14,C0254,Retail Store,Credit Card,Completed
+O000837,2023-02-20,C0313,Online,UPI,Completed
+O000838,2023-04-25,C0469,Retail Store,UPI,Completed
+O000839,2024-01-21,C0380,Online,UPI,Completed
+O000840,2024-06-11,C0129,Retail Store,UPI,Completed
+O000841,2025-02-17,C0408,Marketplace,Cash,Completed
+O000842,2024-01-29,C0246,Online,Credit Card,Completed
+O000843,2023-01-21,C0414,Online,Credit Card,Completed
+O000844,2023-12-23,C0087,Marketplace,Credit Card,Completed
+O000845,2024-04-25,C0014,Online,Debit Card,Completed
+O000846,2024-08-18,C0029,Retail Store,UPI,Completed
+O000847,2024-12-06,C0496,Online,UPI,Completed
+O000848,2023-09-29,C0041,Online,Debit Card,Completed
+O000849,2024-10-30,C0470,Retail Store,Credit Card,Completed
+O000850,2024-11-22,C0364,Marketplace,Net Banking,Completed
+O000851,2025-04-30,C0074,Online,Net Banking,Completed
+O000852,2024-07-25,C0433,Retail Store,Net Banking,Returned
+O000853,2025-06-06,C0073,Retail Store,UPI,Completed
+O000854,2023-08-31,C0072,Online,UPI,Completed
+O000855,2025-02-18,C0288,Online,UPI,Completed
+O000856,2023-02-20,C0145,Online,Net Banking,Completed
+O000857,2023-04-23,C0146,Online,Cash,Completed
+O000858,2025-08-04,C0098,Retail Store,Cash,Returned
+O000859,2024-06-04,C0304,Online,UPI,Completed
+O000860,2024-11-10,C0014,Online,Net Banking,Completed
+O000861,2024-10-22,C0123,Retail Store,Credit Card,Completed
+O000862,2025-01-30,C0277,Retail Store,Net Banking,Completed
+O000863,2023-09-26,C0244,Retail Store,Credit Card,Completed
+O000864,2023-07-15,C0350,Retail Store,UPI,Completed
+O000865,2023-02-16,C0109,Online,UPI,Completed
+O000866,2025-08-04,C0324,Retail Store,Cash,Completed
+O000867,2023-09-02,C0380,Online,Credit Card,Completed
+O000868,2024-09-21,C0195,Online,Credit Card,Completed
+O000869,2024-05-13,C0129,Online,Credit Card,Completed
+O000870,2023-06-27,C0278,Retail Store,Credit Card,Completed
+O000871,2024-03-29,C0290,Retail Store,Cash,Completed
+O000872,2023-04-02,C0048,Online,UPI,Completed
+O000873,2023-07-13,C0283,Marketplace,UPI,Completed
+O000874,2023-06-02,C0078,Marketplace,Net Banking,Completed
+O000875,2025-06-21,C0285,Online,Credit Card,Completed
+O000876,2024-09-13,C0466,Retail Store,UPI,Completed
+O000877,2025-10-10,C0269,Online,UPI,Completed
+O000878,2024-04-22,C0381,Marketplace,UPI,Returned
+O000879,2023-08-09,C0155,Online,UPI,Completed
+O000880,2024-10-28,C0462,Online,UPI,Completed
+O000881,2025-10-14,C0407,Online,UPI,Completed
+O000882,2024-08-06,C0459,Online,Debit Card,Returned
+O000883,2023-01-20,C0371,Retail Store,Net Banking,Completed
+O000884,2023-11-29,C0325,Retail Store,Net Banking,Completed
+O000885,2025-10-09,C0263,Online,Credit Card,Completed
+O000886,2024-07-21,C0465,Retail Store,UPI,Completed
+O000887,2025-11-08,C0425,Marketplace,Cash,Completed
+O000888,2024-07-11,C0209,Retail Store,Net Banking,Returned
+O000889,2023-01-14,C0043,Retail Store,Credit Card,Completed
+O000890,2025-08-13,C0002,Online,UPI,Completed
+O000891,2025-04-15,C0117,Online,UPI,Completed
+O000892,2025-02-22,C0032,Marketplace,Credit Card,Completed
+O000893,2025-11-28,C0106,Retail Store,Credit Card,Completed
+O000894,2023-08-03,C0055,Retail Store,UPI,Completed
+O000895,2025-09-18,C0491,Marketplace,Cash,Completed
+O000896,2023-09-12,C0048,Online,Credit Card,Completed
+O000897,2025-11-28,C0314,Retail Store,Debit Card,Completed
+O000898,2023-07-29,C0176,Online,UPI,Completed
+O000899,2024-08-25,C0088,Online,Net Banking,Completed
+O000900,2025-05-14,C0351,Online,Debit Card,Completed
+O000901,2023-03-27,C0486,Online,UPI,Returned
+O000902,2023-03-15,C0396,Marketplace,Debit Card,Completed
+O000903,2025-07-19,C0488,Online,Debit Card,Completed
+O000904,2023-03-08,C0296,Marketplace,Net Banking,Completed
+O000905,2024-11-03,C0337,Retail Store,UPI,Completed
+O000906,2025-10-24,C0074,Retail Store,Net Banking,Completed
+O000907,2024-11-04,C0427,Marketplace,Credit Card,Completed
+O000908,2024-06-10,C0374,Online,UPI,Returned
+O000909,2024-04-01,C0128,Online,UPI,Completed
+O000910,2024-11-29,C0178,Online,UPI,Completed
+O000911,2024-09-18,C0306,Online,UPI,Completed
+O000912,2024-07-03,C0007,Marketplace,Credit Card,Completed
+O000913,2023-06-18,C0409,Online,Debit Card,Completed
+O000914,2024-12-26,C0141,Online,UPI,Cancelled
+O000915,2025-03-21,C0038,Online,Cash,Completed
+O000916,2025-02-15,C0166,Retail Store,UPI,Completed
+O000917,2023-03-24,C0418,Retail Store,Debit Card,Completed
+O000918,2025-02-08,C0138,Online,Cash,Completed
+O000919,2025-03-10,C0270,Retail Store,Net Banking,Completed
+O000920,2023-07-20,C0406,Retail Store,Debit Card,Completed
+O000921,2025-07-18,C0017,Retail Store,Debit Card,Completed
+O000922,2024-07-27,C0380,Online,UPI,Completed
+O000923,2024-06-01,C0145,Retail Store,UPI,Returned
+O000924,2025-03-02,C0348,Online,Credit Card,Completed
+O000925,2024-07-12,C0095,Online,UPI,Completed
+O000926,2024-08-19,C0070,Retail Store,Credit Card,Completed
+O000927,2023-12-08,C0395,Retail Store,UPI,Completed
+O000928,2025-10-13,C0404,Online,Cash,Completed
+O000929,2025-11-27,C0491,Marketplace,Net Banking,Returned
+O000930,2023-05-23,C0339,Online,Net Banking,Completed
+O000931,2025-03-13,C0233,Retail Store,Debit Card,Completed
+O000932,2023-01-26,C0098,Marketplace,UPI,Completed
+O000933,2024-02-09,C0148,Retail Store,UPI,Completed
+O000934,2025-11-28,C0325,Marketplace,Debit Card,Completed
+O000935,2023-07-11,C0174,Retail Store,Debit Card,Completed
+O000936,2024-02-17,C0242,Retail Store,Credit Card,Completed
+O000937,2023-08-29,C0085,Retail Store,Credit Card,Completed
+O000938,2025-03-08,C0220,Retail Store,Credit Card,Completed
+O000939,2024-05-22,C0119,Online,UPI,Completed
+O000940,2024-10-11,C0057,Retail Store,UPI,Cancelled
+O000941,2025-10-29,C0066,Online,Credit Card,Completed
+O000942,2024-07-24,C0260,Marketplace,Debit Card,Completed
+O000943,2025-03-14,C0184,Online,Cash,Completed
+O000944,2023-04-18,C0050,Online,Credit Card,Completed
+O000945,2023-08-24,C0258,Marketplace,Debit Card,Completed
+O000946,2025-11-02,C0083,Online,Net Banking,Completed
+O000947,2025-07-30,C0008,Online,UPI,Completed
+O000948,2024-12-20,C0067,Retail Store,Debit Card,Completed
+O000949,2024-02-19,C0225,Online,Credit Card,Completed
+O000950,2023-08-07,C0478,Online,Credit Card,Completed
+O000951,2025-07-21,C0121,Retail Store,UPI,Completed
+O000952,2025-05-09,C0143,Online,Cash,Cancelled
+O000953,2023-09-22,C0122,Online,Cash,Completed
+O000954,2024-10-07,C0178,Online,UPI,Completed
+O000955,2024-11-08,C0359,Online,UPI,Completed
+O000956,2024-06-06,C0162,Online,UPI,Completed
+O000957,2025-10-11,C0329,Online,Net Banking,Completed
+O000958,2023-05-16,C0450,Retail Store,Debit Card,Completed
+O000959,2023-10-10,C0474,Retail Store,UPI,Completed
+O000960,2023-04-15,C0282,Online,Net Banking,Completed
+O000961,2025-01-28,C0357,Online,Credit Card,Cancelled
+O000962,2024-12-06,C0460,Marketplace,Credit Card,Completed
+O000963,2025-12-17,C0394,Retail Store,Credit Card,Completed
+O000964,2024-08-16,C0150,Online,Credit Card,Completed
+O000965,2023-06-14,C0067,Online,Credit Card,Completed
+O000966,2024-05-08,C0058,Online,UPI,Completed
+O000967,2023-04-07,C0442,Marketplace,Credit Card,Completed
+O000968,2025-01-04,C0279,Marketplace,Cash,Completed
+O000969,2025-01-08,C0149,Marketplace,Credit Card,Completed
+O000970,2025-07-28,C0173,Online,Cash,Completed
+O000971,2024-01-08,C0141,Online,Credit Card,Cancelled
+O000972,2023-12-06,C0401,Online,Net Banking,Completed
+O000973,2023-03-20,C0307,Online,UPI,Completed
+O000974,2024-03-30,C0440,Online,Net Banking,Cancelled
+O000975,2024-06-04,C0151,Retail Store,UPI,Completed
+O000976,2025-04-06,C0237,Online,UPI,Completed
+O000977,2025-04-05,C0061,Marketplace,UPI,Completed
+O000978,2023-06-03,C0486,Online,UPI,Completed
+O000979,2023-11-09,C0256,Online,Cash,Completed
+O000980,2024-07-14,C0277,Marketplace,Cash,Completed
+O000981,2024-01-02,C0207,Retail Store,Net Banking,Completed
+O000982,2023-01-28,C0136,Online,UPI,Completed
+O000983,2025-07-15,C0475,Retail Store,Net Banking,Completed
+O000984,2025-03-11,C0245,Online,Debit Card,Completed
+O000985,2024-07-23,C0338,Online,UPI,Completed
+O000986,2023-12-14,C0019,Online,Credit Card,Completed
+O000987,2025-07-11,C0138,Online,Debit Card,Completed
+O000988,2023-02-08,C0403,Retail Store,UPI,Completed
+O000989,2024-05-03,C0044,Online,Credit Card,Completed
+O000990,2025-05-27,C0051,Retail Store,Debit Card,Completed
+O000991,2025-11-09,C0405,Retail Store,UPI,Completed
+O000992,2023-10-03,C0155,Online,Credit Card,Completed
+O000993,2024-12-13,C0137,Online,Credit Card,Completed
+O000994,2023-07-27,C0283,Online,Debit Card,Completed
+O000995,2023-05-07,C0098,Retail Store,Cash,Completed
+O000996,2024-01-22,C0022,Retail Store,Net Banking,Cancelled
+O000997,2025-08-27,C0003,Retail Store,Debit Card,Completed
+O000998,2025-01-24,C0040,Online,Debit Card,Completed
+O000999,2024-06-19,C0080,Online,Debit Card,Completed
+O001000,2023-11-06,C0349,Retail Store,Credit Card,Completed
+O001001,2023-06-05,C0149,Online,UPI,Completed
+O001002,2023-10-24,C0036,Retail Store,Debit Card,Completed
+O001003,2023-06-17,C0008,Online,Debit Card,Returned
+O001004,2023-07-24,C0239,Online,Credit Card,Completed
+O001005,2025-01-22,C0421,Retail Store,Net Banking,Completed
+O001006,2023-05-26,C0170,Retail Store,Debit Card,Completed
+O001007,2023-02-21,C0032,Retail Store,Credit Card,Completed
+O001008,2024-08-16,C0115,Online,UPI,Completed
+O001009,2023-11-10,C0250,Marketplace,UPI,Completed
+O001010,2024-05-12,C0095,Marketplace,Credit Card,Completed
+O001011,2023-06-03,C0490,Marketplace,Credit Card,Completed
+O001012,2023-08-18,C0382,Retail Store,UPI,Cancelled
+O001013,2024-04-27,C0173,Retail Store,UPI,Completed
+O001014,2025-01-25,C0476,Retail Store,UPI,Completed
+O001015,2024-03-29,C0163,Online,Net Banking,Returned
+O001016,2024-08-16,C0071,Online,Net Banking,Completed
+O001017,2024-07-25,C0470,Retail Store,Credit Card,Returned
+O001018,2023-10-22,C0480,Online,UPI,Completed
+O001019,2023-11-03,C0157,Online,UPI,Completed
+O001020,2024-04-11,C0298,Marketplace,UPI,Completed
+O001021,2023-02-05,C0087,Online,Credit Card,Completed
+O001022,2025-01-20,C0321,Retail Store,UPI,Completed
+O001023,2024-11-03,C0346,Retail Store,UPI,Cancelled
+O001024,2023-12-02,C0355,Online,Cash,Returned
+O001025,2024-02-14,C0285,Marketplace,Credit Card,Returned
+O001026,2023-12-26,C0353,Online,Net Banking,Completed
+O001027,2024-12-14,C0278,Marketplace,UPI,Completed
+O001028,2025-04-11,C0410,Retail Store,UPI,Completed
+O001029,2023-04-29,C0090,Online,Cash,Completed
+O001030,2024-03-28,C0242,Online,Credit Card,Completed
+O001031,2023-01-16,C0209,Online,Debit Card,Completed
+O001032,2024-05-10,C0267,Online,Cash,Completed
+O001033,2023-09-29,C0072,Online,Credit Card,Completed
+O001034,2024-01-03,C0162,Marketplace,UPI,Completed
+O001035,2024-05-14,C0478,Online,Credit Card,Completed
+O001036,2023-12-21,C0053,Marketplace,UPI,Completed
+O001037,2024-03-07,C0318,Online,UPI,Cancelled
+O001038,2025-04-17,C0333,Marketplace,UPI,Completed
+O001039,2025-06-06,C0238,Online,Net Banking,Completed
+O001040,2023-01-07,C0017,Online,Debit Card,Completed
+O001041,2024-02-18,C0018,Retail Store,UPI,Completed
+O001042,2025-07-16,C0138,Online,UPI,Completed
+O001043,2024-08-03,C0052,Marketplace,Debit Card,Completed
+O001044,2023-08-13,C0048,Online,Cash,Completed
+O001045,2024-10-11,C0081,Retail Store,UPI,Completed
+O001046,2023-06-08,C0096,Retail Store,UPI,Completed
+O001047,2023-01-24,C0420,Retail Store,Net Banking,Completed
+O001048,2024-11-23,C0320,Online,Net Banking,Cancelled
+O001049,2024-07-18,C0016,Online,Cash,Returned
+O001050,2025-04-08,C0315,Online,UPI,Completed
+O001051,2024-01-13,C0069,Online,UPI,Completed
+O001052,2025-07-24,C0211,Online,Credit Card,Completed
+O001053,2024-04-06,C0020,Marketplace,UPI,Completed
+O001054,2025-03-19,C0046,Retail Store,Net Banking,Returned
+O001055,2023-04-20,C0067,Retail Store,UPI,Completed
+O001056,2023-04-17,C0217,Online,Debit Card,Cancelled
+O001057,2025-05-07,C0232,Online,Cash,Completed
+O001058,2025-07-02,C0177,Retail Store,Cash,Completed
+O001059,2025-10-28,C0311,Online,Debit Card,Completed
+O001060,2023-12-22,C0361,Online,Cash,Returned
+O001061,2023-01-25,C0365,Online,UPI,Completed
+O001062,2025-12-08,C0290,Retail Store,Credit Card,Completed
+O001063,2024-10-20,C0273,Marketplace,UPI,Completed
+O001064,2023-09-28,C0246,Online,Cash,Completed
+O001065,2025-04-16,C0119,Retail Store,Cash,Completed
+O001066,2025-09-16,C0244,Online,UPI,Completed
+O001067,2023-11-08,C0006,Online,UPI,Completed
+O001068,2025-04-22,C0484,Retail Store,Credit Card,Completed
+O001069,2025-05-12,C0186,Online,UPI,Completed
+O001070,2024-07-03,C0379,Retail Store,Net Banking,Completed
+O001071,2024-11-23,C0479,Online,UPI,Completed
+O001072,2023-10-23,C0249,Online,Net Banking,Cancelled
+O001073,2025-10-14,C0431,Marketplace,Credit Card,Completed
+O001074,2025-12-12,C0240,Online,Credit Card,Completed
+O001075,2025-12-10,C0067,Retail Store,UPI,Completed
+O001076,2025-03-18,C0014,Online,Cash,Completed
+O001077,2023-02-16,C0068,Marketplace,Debit Card,Completed
+O001078,2024-02-06,C0472,Online,Credit Card,Completed
+O001079,2024-05-02,C0238,Online,Credit Card,Completed
+O001080,2025-11-17,C0160,Retail Store,Cash,Completed
+O001081,2024-08-21,C0224,Online,Net Banking,Completed
+O001082,2024-08-10,C0128,Online,Net Banking,Completed
+O001083,2023-06-10,C0436,Marketplace,Debit Card,Completed
+O001084,2025-05-19,C0500,Retail Store,Net Banking,Completed
+O001085,2024-01-04,C0043,Retail Store,UPI,Completed
+O001086,2023-04-11,C0360,Retail Store,Debit Card,Cancelled
+O001087,2025-12-17,C0168,Marketplace,Credit Card,Completed
+O001088,2023-07-28,C0024,Marketplace,Debit Card,Completed
+O001089,2023-01-18,C0462,Retail Store,Cash,Cancelled
+O001090,2023-03-27,C0031,Online,Cash,Completed
+O001091,2024-05-10,C0103,Online,Credit Card,Returned
+O001092,2023-04-23,C0013,Retail Store,Credit Card,Completed
+O001093,2025-07-11,C0236,Marketplace,Net Banking,Completed
+O001094,2024-07-15,C0300,Online,Cash,Completed
+O001095,2023-12-21,C0161,Online,Net Banking,Completed
+O001096,2023-01-04,C0036,Online,UPI,Returned
+O001097,2024-06-09,C0059,Retail Store,UPI,Completed
+O001098,2023-06-15,C0467,Marketplace,Net Banking,Completed
+O001099,2025-12-06,C0403,Online,Net Banking,Completed
+O001100,2023-11-15,C0469,Retail Store,Debit Card,Completed
+O001101,2024-06-03,C0266,Retail Store,Debit Card,Completed
+O001102,2023-01-21,C0274,Marketplace,Credit Card,Completed
+O001103,2023-05-24,C0393,Online,Credit Card,Completed
+O001104,2023-08-16,C0309,Marketplace,Net Banking,Completed
+O001105,2023-02-26,C0219,Retail Store,UPI,Returned
+O001106,2025-03-05,C0146,Retail Store,Debit Card,Completed
+O001107,2025-11-01,C0243,Online,Debit Card,Completed
+O001108,2025-12-14,C0032,Retail Store,Net Banking,Completed
+O001109,2023-10-19,C0097,Retail Store,UPI,Completed
+O001110,2025-05-13,C0369,Online,Debit Card,Completed
+O001111,2024-07-05,C0435,Online,UPI,Completed
+O001112,2023-02-20,C0051,Retail Store,UPI,Completed
+O001113,2023-04-10,C0049,Retail Store,Credit Card,Completed
+O001114,2024-08-22,C0043,Online,UPI,Completed
+O001115,2024-04-08,C0396,Online,Cash,Completed
+O001116,2023-01-10,C0156,Online,Cash,Cancelled
+O001117,2025-10-15,C0164,Marketplace,UPI,Completed
+O001118,2025-03-10,C0007,Marketplace,Net Banking,Completed
+O001119,2024-07-04,C0487,Online,Credit Card,Returned
+O001120,2025-12-16,C0218,Online,Debit Card,Completed
+O001121,2025-11-29,C0399,Online,Net Banking,Completed
+O001122,2025-12-02,C0354,Online,Credit Card,Completed
+O001123,2023-10-11,C0071,Marketplace,UPI,Completed
+O001124,2025-08-22,C0401,Retail Store,UPI,Completed
+O001125,2024-07-06,C0276,Online,Credit Card,Completed
+O001126,2025-03-06,C0303,Online,Cash,Completed
+O001127,2025-07-30,C0101,Online,Credit Card,Completed
+O001128,2023-06-28,C0424,Marketplace,Credit Card,Completed
+O001129,2024-05-05,C0466,Retail Store,UPI,Completed
+O001130,2023-05-22,C0204,Retail Store,Cash,Completed
+O001131,2023-11-03,C0047,Online,UPI,Completed
+O001132,2024-03-28,C0425,Marketplace,Debit Card,Completed
+O001133,2025-07-25,C0444,Online,Debit Card,Completed
+O001134,2025-08-02,C0254,Marketplace,UPI,Returned
+O001135,2024-03-02,C0290,Marketplace,UPI,Completed
+O001136,2023-12-27,C0112,Retail Store,Credit Card,Completed
+O001137,2024-08-04,C0034,Marketplace,UPI,Completed
+O001138,2025-09-25,C0473,Online,Debit Card,Completed
+O001139,2025-12-05,C0242,Retail Store,Net Banking,Completed
+O001140,2023-09-06,C0138,Online,UPI,Returned
+O001141,2023-07-24,C0347,Online,Credit Card,Completed
+O001142,2025-02-12,C0014,Online,UPI,Completed
+O001143,2023-11-27,C0040,Online,UPI,Completed
+O001144,2023-08-07,C0122,Online,Net Banking,Completed
+O001145,2023-02-04,C0226,Online,Net Banking,Completed
+O001146,2024-03-17,C0184,Retail Store,Net Banking,Completed
+O001147,2024-03-05,C0094,Online,UPI,Completed
+O001148,2024-09-08,C0176,Online,Credit Card,Completed
+O001149,2023-08-08,C0167,Marketplace,Credit Card,Completed
+O001150,2025-02-21,C0263,Marketplace,Cash,Completed
+O001151,2025-01-14,C0282,Online,Debit Card,Completed
+O001152,2024-05-21,C0442,Online,Cash,Completed
+O001153,2023-07-18,C0404,Retail Store,UPI,Completed
+O001154,2024-07-09,C0147,Retail Store,Credit Card,Cancelled
+O001155,2025-01-08,C0452,Online,Net Banking,Returned
+O001156,2024-02-13,C0261,Retail Store,Credit Card,Completed
+O001157,2023-10-16,C0094,Online,Debit Card,Returned
+O001158,2024-07-08,C0171,Online,Credit Card,Completed
+O001159,2024-01-24,C0371,Retail Store,Cash,Completed
+O001160,2024-03-14,C0411,Retail Store,UPI,Completed
+O001161,2024-01-18,C0188,Marketplace,Cash,Returned
+O001162,2023-11-29,C0079,Online,Credit Card,Completed
+O001163,2025-02-23,C0096,Online,Credit Card,Completed
+O001164,2024-05-18,C0052,Online,Credit Card,Completed
+O001165,2024-05-25,C0350,Online,UPI,Completed
+O001166,2024-12-16,C0252,Online,Cash,Completed
+O001167,2024-01-31,C0226,Retail Store,Cash,Completed
+O001168,2023-04-21,C0336,Retail Store,Cash,Completed
+O001169,2025-07-22,C0415,Retail Store,Cash,Returned
+O001170,2023-03-02,C0398,Online,Debit Card,Completed
+O001171,2024-09-18,C0069,Online,Credit Card,Completed
+O001172,2023-10-19,C0295,Retail Store,Net Banking,Completed
+O001173,2023-08-23,C0442,Online,UPI,Completed
+O001174,2023-02-15,C0387,Marketplace,Net Banking,Completed
+O001175,2025-09-12,C0165,Online,Credit Card,Completed
+O001176,2024-04-14,C0197,Retail Store,Debit Card,Completed
+O001177,2024-01-11,C0446,Marketplace,Credit Card,Completed
+O001178,2025-03-22,C0017,Retail Store,Credit Card,Completed
+O001179,2023-02-12,C0263,Retail Store,UPI,Returned
+O001180,2024-09-10,C0059,Retail Store,Credit Card,Completed
+O001181,2024-06-25,C0448,Online,Credit Card,Completed
+O001182,2024-08-29,C0020,Retail Store,UPI,Completed
+O001183,2023-05-16,C0012,Marketplace,UPI,Completed
+O001184,2025-11-09,C0165,Marketplace,Debit Card,Returned
+O001185,2023-09-19,C0101,Online,UPI,Completed
+O001186,2025-01-12,C0248,Online,Net Banking,Completed
+O001187,2025-03-29,C0150,Retail Store,UPI,Completed
+O001188,2024-01-12,C0179,Retail Store,Credit Card,Completed
+O001189,2023-05-24,C0283,Online,UPI,Completed
+O001190,2023-11-21,C0281,Online,Credit Card,Completed
+O001191,2025-06-02,C0468,Online,Credit Card,Completed
+O001192,2025-09-19,C0241,Online,Debit Card,Completed
+O001193,2025-10-22,C0283,Online,Credit Card,Completed
+O001194,2023-09-05,C0339,Online,Credit Card,Completed
+O001195,2024-10-26,C0088,Online,UPI,Completed
+O001196,2023-06-15,C0334,Marketplace,Credit Card,Completed
+O001197,2025-02-16,C0431,Online,Credit Card,Completed
+O001198,2024-03-31,C0160,Online,Debit Card,Completed
+O001199,2025-02-20,C0090,Online,Credit Card,Completed
+O001200,2025-01-20,C0174,Online,Net Banking,Completed
+O001201,2025-12-23,C0138,Marketplace,Credit Card,Completed
+O001202,2024-06-19,C0293,Marketplace,UPI,Completed
+O001203,2024-01-09,C0432,Online,UPI,Completed
+O001204,2024-07-30,C0299,Online,UPI,Completed
+O001205,2023-06-28,C0063,Online,Credit Card,Completed
+O001206,2023-05-03,C0158,Online,Net Banking,Completed
+O001207,2024-07-22,C0345,Online,Net Banking,Completed
+O001208,2025-06-22,C0166,Online,Credit Card,Completed
+O001209,2024-08-06,C0294,Online,UPI,Completed
+O001210,2025-05-06,C0348,Retail Store,Net Banking,Completed
+O001211,2023-07-14,C0165,Online,UPI,Completed
+O001212,2024-05-07,C0324,Online,Credit Card,Completed
+O001213,2024-11-02,C0200,Retail Store,Net Banking,Completed
+O001214,2024-01-16,C0068,Online,Credit Card,Completed
+O001215,2023-01-16,C0187,Online,UPI,Completed
+O001216,2023-03-22,C0221,Online,UPI,Completed
+O001217,2025-10-12,C0002,Online,Debit Card,Completed
+O001218,2024-10-24,C0447,Online,UPI,Completed
+O001219,2023-10-17,C0264,Marketplace,Debit Card,Completed
+O001220,2023-10-11,C0019,Marketplace,Credit Card,Completed
+O001221,2023-02-13,C0434,Online,UPI,Completed
+O001222,2025-10-31,C0428,Online,UPI,Completed
+O001223,2023-04-29,C0007,Retail Store,Net Banking,Completed
+O001224,2025-04-11,C0082,Retail Store,Credit Card,Completed
+O001225,2023-09-21,C0182,Online,Debit Card,Completed
+O001226,2024-01-03,C0254,Online,Credit Card,Completed
+O001227,2023-10-27,C0363,Online,UPI,Completed
+O001228,2025-06-21,C0213,Retail Store,Credit Card,Completed
+O001229,2023-02-05,C0306,Online,Credit Card,Completed
+O001230,2024-01-21,C0006,Online,Credit Card,Completed
+O001231,2023-11-02,C0330,Online,Net Banking,Completed
+O001232,2023-10-26,C0458,Online,Cash,Completed
+O001233,2023-07-31,C0264,Online,Net Banking,Completed
+O001234,2025-09-26,C0228,Retail Store,Debit Card,Completed
+O001235,2024-02-19,C0149,Retail Store,Credit Card,Completed
+O001236,2024-04-02,C0478,Online,Debit Card,Completed
+O001237,2024-02-26,C0017,Online,UPI,Completed
+O001238,2025-12-09,C0144,Marketplace,Net Banking,Returned
+O001239,2024-01-07,C0070,Online,Net Banking,Completed
+O001240,2024-01-10,C0434,Online,UPI,Cancelled
+O001241,2023-12-26,C0242,Online,Cash,Returned
+O001242,2023-12-25,C0462,Marketplace,Net Banking,Completed
+O001243,2023-04-09,C0333,Retail Store,Credit Card,Completed
+O001244,2024-10-23,C0279,Marketplace,Cash,Completed
+O001245,2023-01-28,C0259,Retail Store,UPI,Returned
+O001246,2023-09-05,C0102,Online,UPI,Completed
+O001247,2023-08-10,C0282,Online,Credit Card,Completed
+O001248,2023-11-16,C0343,Online,Credit Card,Returned
+O001249,2025-04-08,C0483,Retail Store,Credit Card,Completed
+O001250,2024-10-18,C0275,Retail Store,Cash,Cancelled
+O001251,2025-12-20,C0470,Online,UPI,Completed
+O001252,2024-01-20,C0473,Marketplace,UPI,Completed
+O001253,2025-10-13,C0262,Online,Debit Card,Completed
+O001254,2023-02-19,C0220,Online,UPI,Completed
+O001255,2024-07-06,C0072,Online,Debit Card,Completed
+O001256,2025-05-24,C0135,Marketplace,Credit Card,Completed
+O001257,2024-08-05,C0440,Marketplace,Cash,Completed
+O001258,2025-10-18,C0070,Retail Store,Debit Card,Completed
+O001259,2023-12-11,C0199,Marketplace,UPI,Completed
+O001260,2023-02-06,C0350,Marketplace,UPI,Completed
+O001261,2025-04-27,C0121,Marketplace,UPI,Completed
+O001262,2023-03-16,C0488,Marketplace,Cash,Completed
+O001263,2025-04-17,C0325,Online,Debit Card,Completed
+O001264,2025-03-14,C0015,Retail Store,Credit Card,Completed
+O001265,2025-07-13,C0124,Retail Store,UPI,Completed
+O001266,2024-06-08,C0371,Retail Store,Net Banking,Completed
+O001267,2025-09-07,C0432,Online,UPI,Completed
+O001268,2023-07-05,C0464,Retail Store,Debit Card,Cancelled
+O001269,2024-04-20,C0426,Marketplace,Net Banking,Completed
+O001270,2023-05-14,C0038,Online,UPI,Completed
+O001271,2025-04-19,C0365,Marketplace,Credit Card,Completed
+O001272,2025-02-21,C0056,Online,UPI,Cancelled
+O001273,2025-06-02,C0039,Online,Credit Card,Completed
+O001274,2025-04-16,C0346,Online,Cash,Completed
+O001275,2023-12-04,C0240,Retail Store,Debit Card,Returned
+O001276,2023-03-16,C0324,Retail Store,Net Banking,Returned
+O001277,2025-10-14,C0426,Online,Credit Card,Completed
+O001278,2024-06-23,C0035,Retail Store,UPI,Completed
+O001279,2023-04-14,C0264,Online,Debit Card,Completed
+O001280,2025-10-12,C0418,Online,Credit Card,Completed
+O001281,2025-12-24,C0221,Marketplace,UPI,Completed
+O001282,2024-05-02,C0262,Retail Store,Credit Card,Completed
+O001283,2025-04-23,C0249,Retail Store,Debit Card,Completed
+O001284,2023-02-09,C0454,Retail Store,Debit Card,Completed
+O001285,2023-04-13,C0025,Marketplace,UPI,Completed
+O001286,2023-10-30,C0439,Online,Net Banking,Completed
+O001287,2024-12-19,C0409,Online,Credit Card,Completed
+O001288,2023-05-27,C0407,Online,UPI,Cancelled
+O001289,2023-02-07,C0207,Retail Store,UPI,Completed
+O001290,2025-01-02,C0258,Retail Store,Net Banking,Completed
+O001291,2025-04-23,C0185,Retail Store,Credit Card,Completed
+O001292,2025-03-20,C0126,Online,Credit Card,Completed
+O001293,2025-05-25,C0438,Online,UPI,Completed
+O001294,2025-05-29,C0253,Retail Store,Debit Card,Completed
+O001295,2024-10-21,C0362,Marketplace,Net Banking,Completed
+O001296,2024-07-22,C0051,Online,UPI,Completed
+O001297,2025-07-27,C0395,Online,Cash,Completed
+O001298,2024-01-17,C0330,Online,UPI,Completed
+O001299,2023-04-18,C0499,Online,UPI,Completed
+O001300,2025-04-03,C0067,Online,Debit Card,Completed
+O001301,2023-10-30,C0271,Online,Debit Card,Completed
+O001302,2025-12-07,C0256,Retail Store,UPI,Cancelled
+O001303,2024-03-29,C0270,Online,Credit Card,Completed
+O001304,2025-07-21,C0028,Online,UPI,Completed
+O001305,2023-02-16,C0237,Online,Credit Card,Completed
+O001306,2024-12-22,C0150,Marketplace,Debit Card,Completed
+O001307,2024-05-05,C0309,Online,Cash,Cancelled
+O001308,2024-05-21,C0117,Online,Credit Card,Completed
+O001309,2023-10-18,C0218,Online,Debit Card,Completed
+O001310,2025-11-29,C0311,Retail Store,Credit Card,Completed
+O001311,2025-07-20,C0033,Marketplace,UPI,Completed
+O001312,2024-04-10,C0394,Online,UPI,Completed
+O001313,2023-02-22,C0358,Online,Cash,Completed
+O001314,2025-08-20,C0029,Online,UPI,Completed
+O001315,2023-07-22,C0033,Retail Store,Net Banking,Completed
+O001316,2023-10-24,C0426,Marketplace,UPI,Completed
+O001317,2025-07-31,C0142,Online,Net Banking,Completed
+O001318,2025-09-05,C0431,Online,UPI,Returned
+O001319,2025-09-30,C0250,Retail Store,Cash,Completed
+O001320,2024-04-11,C0172,Retail Store,Debit Card,Completed
+O001321,2025-04-08,C0137,Online,UPI,Completed
+O001322,2023-12-25,C0330,Online,Debit Card,Completed
+O001323,2025-03-21,C0055,Online,Debit Card,Completed
+O001324,2024-07-04,C0202,Retail Store,UPI,Returned
+O001325,2023-02-26,C0173,Retail Store,UPI,Completed
+O001326,2024-04-02,C0078,Retail Store,Debit Card,Returned
+O001327,2024-05-27,C0177,Marketplace,Debit Card,Completed
+O001328,2023-10-09,C0265,Online,UPI,Completed
+O001329,2024-02-15,C0339,Online,Net Banking,Completed
+O001330,2024-07-04,C0044,Online,UPI,Cancelled
+O001331,2023-02-24,C0437,Marketplace,UPI,Completed
+O001332,2023-06-16,C0440,Retail Store,Debit Card,Cancelled
+O001333,2025-04-19,C0346,Online,UPI,Completed
+O001334,2024-01-21,C0463,Online,UPI,Completed
+O001335,2024-10-28,C0214,Retail Store,Credit Card,Completed
+O001336,2024-09-11,C0411,Retail Store,UPI,Completed
+O001337,2024-08-26,C0364,Retail Store,UPI,Completed
+O001338,2024-03-28,C0282,Online,Debit Card,Completed
+O001339,2024-06-13,C0090,Marketplace,Credit Card,Completed
+O001340,2025-06-21,C0279,Retail Store,Net Banking,Completed
+O001341,2025-11-22,C0451,Retail Store,Debit Card,Completed
+O001342,2023-10-09,C0493,Retail Store,Credit Card,Completed
+O001343,2025-01-03,C0225,Marketplace,UPI,Completed
+O001344,2025-11-27,C0124,Marketplace,Net Banking,Completed
+O001345,2023-01-09,C0374,Retail Store,UPI,Completed
+O001346,2025-05-09,C0038,Online,UPI,Completed
+O001347,2024-06-28,C0076,Online,Net Banking,Completed
+O001348,2025-11-25,C0281,Marketplace,Debit Card,Completed
+O001349,2024-09-25,C0496,Retail Store,Debit Card,Completed
+O001350,2025-07-06,C0165,Online,UPI,Completed
+O001351,2023-07-01,C0222,Online,UPI,Completed
+O001352,2023-06-05,C0162,Marketplace,Credit Card,Completed
+O001353,2025-10-11,C0221,Marketplace,Debit Card,Completed
+O001354,2024-07-30,C0004,Marketplace,Credit Card,Completed
+O001355,2024-09-03,C0298,Online,UPI,Completed
+O001356,2023-07-06,C0299,Retail Store,UPI,Completed
+O001357,2023-09-06,C0158,Marketplace,Debit Card,Completed
+O001358,2025-06-14,C0133,Online,Debit Card,Cancelled
+O001359,2023-11-29,C0381,Online,UPI,Completed
+O001360,2024-10-01,C0094,Marketplace,UPI,Completed
+O001361,2023-12-13,C0024,Online,UPI,Completed
+O001362,2023-10-16,C0021,Retail Store,UPI,Completed
+O001363,2023-07-01,C0441,Retail Store,Credit Card,Completed
+O001364,2025-10-14,C0183,Retail Store,UPI,Completed
+O001365,2025-10-26,C0051,Online,Debit Card,Completed
+O001366,2023-05-07,C0440,Retail Store,Net Banking,Completed
+O001367,2024-01-22,C0075,Online,Cash,Completed
+O001368,2024-09-09,C0169,Marketplace,Cash,Completed
+O001369,2024-02-24,C0011,Online,UPI,Completed
+O001370,2025-02-28,C0340,Retail Store,UPI,Completed
+O001371,2023-10-12,C0350,Retail Store,UPI,Completed
+O001372,2023-03-06,C0379,Online,Debit Card,Completed
+O001373,2024-01-04,C0132,Online,UPI,Completed
+O001374,2024-10-16,C0165,Retail Store,Credit Card,Completed
+O001375,2023-07-17,C0470,Online,UPI,Completed
+O001376,2025-06-12,C0411,Online,UPI,Completed
+O001377,2023-01-14,C0019,Online,Debit Card,Completed
+O001378,2023-03-15,C0346,Marketplace,Debit Card,Completed
+O001379,2024-07-11,C0407,Retail Store,Credit Card,Completed
+O001380,2024-07-14,C0280,Online,Cash,Returned
+O001381,2023-11-19,C0320,Marketplace,UPI,Completed
+O001382,2023-10-11,C0001,Online,UPI,Completed
+O001383,2023-03-18,C0016,Online,Credit Card,Completed
+O001384,2024-12-26,C0018,Online,Debit Card,Completed
+O001385,2024-02-20,C0080,Online,Debit Card,Completed
+O001386,2023-05-10,C0496,Online,UPI,Completed
+O001387,2024-03-13,C0318,Retail Store,Cash,Returned
+O001388,2025-10-23,C0392,Online,UPI,Completed
+O001389,2023-10-14,C0148,Retail Store,Credit Card,Returned
+O001390,2025-09-06,C0469,Online,Debit Card,Completed
+O001391,2023-10-11,C0100,Online,Cash,Completed
+O001392,2023-07-23,C0452,Online,Debit Card,Completed
+O001393,2023-10-13,C0016,Retail Store,Cash,Completed
+O001394,2023-12-20,C0011,Retail Store,UPI,Completed
+O001395,2023-05-13,C0040,Online,Debit Card,Completed
+O001396,2024-10-05,C0396,Online,Net Banking,Completed
+O001397,2024-01-01,C0129,Online,Credit Card,Completed
+O001398,2025-02-25,C0226,Marketplace,Credit Card,Completed
+O001399,2024-06-21,C0236,Online,Cash,Completed
+O001400,2024-04-29,C0395,Retail Store,UPI,Completed
+O001401,2024-05-30,C0175,Online,Credit Card,Completed
+O001402,2023-06-21,C0004,Online,Net Banking,Completed
+O001403,2025-02-19,C0194,Retail Store,Cash,Completed
+O001404,2023-04-25,C0145,Online,Cash,Cancelled
+O001405,2025-03-01,C0366,Online,Net Banking,Completed
+O001406,2025-12-30,C0376,Marketplace,UPI,Completed
+O001407,2025-04-16,C0046,Online,Cash,Completed
+O001408,2024-05-13,C0397,Online,Credit Card,Completed
+O001409,2023-12-11,C0036,Online,Debit Card,Completed
+O001410,2025-08-13,C0310,Retail Store,Credit Card,Completed
+O001411,2023-10-09,C0195,Retail Store,Net Banking,Completed
+O001412,2024-06-12,C0151,Online,Credit Card,Completed
+O001413,2025-04-24,C0242,Marketplace,Net Banking,Completed
+O001414,2025-10-06,C0156,Retail Store,UPI,Completed
+O001415,2025-10-05,C0397,Marketplace,UPI,Completed
+O001416,2023-04-07,C0484,Marketplace,Credit Card,Completed
+O001417,2025-09-10,C0408,Marketplace,UPI,Completed
+O001418,2023-05-05,C0220,Retail Store,Debit Card,Completed
+O001419,2024-10-02,C0252,Online,UPI,Completed
+O001420,2024-12-18,C0224,Online,Credit Card,Completed
+O001421,2025-11-03,C0397,Retail Store,UPI,Completed
+O001422,2023-12-11,C0277,Online,UPI,Completed
+O001423,2023-12-24,C0235,Retail Store,Debit Card,Completed
+O001424,2024-01-24,C0205,Online,UPI,Cancelled
+O001425,2025-01-17,C0188,Marketplace,UPI,Completed
+O001426,2024-05-10,C0277,Online,UPI,Returned
+O001427,2025-03-18,C0345,Marketplace,UPI,Returned
+O001428,2024-03-31,C0217,Online,Debit Card,Completed
+O001429,2023-12-03,C0404,Online,UPI,Completed
+O001430,2023-07-28,C0414,Marketplace,Credit Card,Completed
+O001431,2024-08-26,C0215,Marketplace,Debit Card,Cancelled
+O001432,2025-09-10,C0455,Retail Store,Credit Card,Completed
+O001433,2025-07-29,C0087,Marketplace,Debit Card,Completed
+O001434,2023-10-05,C0467,Online,UPI,Completed
+O001435,2024-06-07,C0148,Marketplace,Cash,Completed
+O001436,2025-02-11,C0283,Online,Credit Card,Completed
+O001437,2024-11-01,C0142,Retail Store,UPI,Completed
+O001438,2023-03-15,C0222,Online,Cash,Completed
+O001439,2024-10-09,C0171,Online,Debit Card,Completed
+O001440,2023-02-12,C0353,Retail Store,Debit Card,Returned
+O001441,2023-05-08,C0041,Retail Store,Net Banking,Completed
+O001442,2024-12-16,C0420,Online,UPI,Completed
+O001443,2023-04-23,C0452,Marketplace,Net Banking,Completed
+O001444,2024-01-07,C0282,Retail Store,Debit Card,Completed
+O001445,2024-10-06,C0274,Online,Credit Card,Completed
+O001446,2024-12-18,C0350,Retail Store,UPI,Completed
+O001447,2024-05-03,C0100,Online,UPI,Completed
+O001448,2023-04-13,C0375,Online,Cash,Completed
+O001449,2025-05-25,C0110,Retail Store,UPI,Cancelled
+O001450,2025-11-06,C0339,Online,UPI,Completed
+O001451,2025-08-31,C0153,Online,Debit Card,Completed
+O001452,2025-03-30,C0374,Retail Store,Debit Card,Completed
+O001453,2024-03-16,C0396,Online,UPI,Completed
+O001454,2025-08-17,C0105,Marketplace,Net Banking,Completed
+O001455,2024-06-18,C0309,Retail Store,Credit Card,Completed
+O001456,2023-05-30,C0250,Online,Net Banking,Completed
+O001457,2025-07-20,C0148,Retail Store,UPI,Completed
+O001458,2023-12-17,C0295,Online,UPI,Completed
+O001459,2025-10-24,C0497,Retail Store,Debit Card,Completed
+O001460,2024-02-08,C0002,Online,UPI,Completed
+O001461,2025-08-09,C0479,Marketplace,Credit Card,Completed
+O001462,2024-08-11,C0428,Online,UPI,Completed
+O001463,2024-05-26,C0265,Retail Store,Net Banking,Completed
+O001464,2023-11-22,C0306,Online,Net Banking,Completed
+O001465,2025-07-04,C0185,Online,Net Banking,Completed
+O001466,2023-03-08,C0065,Online,Cash,Completed
+O001467,2024-05-28,C0286,Retail Store,Cash,Completed
+O001468,2024-02-08,C0409,Marketplace,Credit Card,Returned
+O001469,2024-08-18,C0116,Online,Credit Card,Cancelled
+O001470,2023-10-06,C0359,Online,Net Banking,Completed
+O001471,2024-12-28,C0375,Online,Cash,Completed
+O001472,2024-02-27,C0380,Online,Cash,Completed
+O001473,2023-07-26,C0171,Marketplace,Net Banking,Completed
+O001474,2023-08-04,C0197,Marketplace,UPI,Completed
+O001475,2025-02-01,C0209,Marketplace,Cash,Completed
+O001476,2023-10-14,C0428,Online,Cash,Completed
+O001477,2024-11-17,C0451,Online,Debit Card,Cancelled
+O001478,2023-12-28,C0208,Retail Store,Net Banking,Completed
+O001479,2024-03-01,C0485,Online,Credit Card,Completed
+O001480,2023-09-25,C0286,Retail Store,Cash,Completed
+O001481,2024-01-14,C0193,Online,UPI,Cancelled
+O001482,2025-01-28,C0001,Online,Net Banking,Completed
+O001483,2024-08-07,C0306,Marketplace,UPI,Returned
+O001484,2025-12-28,C0323,Online,UPI,Completed
+O001485,2025-04-25,C0485,Marketplace,UPI,Completed
+O001486,2023-01-19,C0360,Online,Credit Card,Completed
+O001487,2024-02-19,C0015,Online,UPI,Completed
+O001488,2023-11-14,C0284,Online,Cash,Completed
+O001489,2024-10-05,C0372,Online,Credit Card,Completed
+O001490,2023-10-18,C0249,Retail Store,Net Banking,Completed
+O001491,2025-11-23,C0215,Online,UPI,Completed
+O001492,2023-11-24,C0405,Retail Store,UPI,Completed
+O001493,2024-07-25,C0306,Marketplace,Net Banking,Completed
+O001494,2023-05-15,C0341,Online,Debit Card,Completed
+O001495,2025-09-23,C0233,Online,Credit Card,Completed
+O001496,2025-09-25,C0140,Online,Net Banking,Completed
+O001497,2025-05-19,C0260,Retail Store,Net Banking,Completed
+O001498,2024-01-21,C0480,Retail Store,Debit Card,Completed
+O001499,2023-03-06,C0302,Online,Cash,Completed
+O001500,2025-02-17,C0354,Retail Store,Debit Card,Completed
+O001501,2024-04-14,C0063,Online,Debit Card,Completed
+O001502,2025-12-20,C0494,Online,Credit Card,Completed
+O001503,2025-02-03,C0123,Online,UPI,Returned
+O001504,2024-08-12,C0486,Marketplace,UPI,Completed
+O001505,2025-12-16,C0223,Online,Net Banking,Completed
+O001506,2025-05-26,C0460,Online,Debit Card,Completed
+O001507,2024-05-16,C0446,Online,UPI,Completed
+O001508,2023-01-21,C0378,Retail Store,Debit Card,Cancelled
+O001509,2023-04-12,C0459,Online,UPI,Returned
+O001510,2024-04-30,C0305,Online,UPI,Completed
+O001511,2024-09-07,C0425,Online,Cash,Completed
+O001512,2023-02-03,C0087,Retail Store,Credit Card,Completed
+O001513,2023-05-19,C0036,Online,UPI,Returned
+O001514,2025-02-10,C0272,Marketplace,Credit Card,Completed
+O001515,2025-04-02,C0405,Online,Credit Card,Cancelled
+O001516,2023-02-02,C0383,Online,Debit Card,Completed
+O001517,2024-07-09,C0264,Marketplace,Cash,Completed
+O001518,2023-03-30,C0261,Marketplace,Debit Card,Completed
+O001519,2025-03-03,C0305,Online,Debit Card,Completed
+O001520,2025-07-02,C0435,Marketplace,Credit Card,Completed
+O001521,2025-08-09,C0421,Retail Store,Credit Card,Completed
+O001522,2024-10-17,C0055,Online,UPI,Completed
+O001523,2024-11-19,C0298,Marketplace,UPI,Completed
+O001524,2025-10-11,C0191,Retail Store,Net Banking,Completed
+O001525,2024-11-01,C0400,Online,Credit Card,Completed
+O001526,2025-04-06,C0253,Retail Store,Credit Card,Completed
+O001527,2024-10-08,C0496,Online,UPI,Completed
+O001528,2025-07-11,C0217,Online,Net Banking,Cancelled
+O001529,2024-07-28,C0340,Marketplace,UPI,Returned
+O001530,2025-08-09,C0055,Retail Store,Credit Card,Completed
+O001531,2023-02-19,C0467,Retail Store,Net Banking,Completed
+O001532,2023-02-09,C0077,Retail Store,Credit Card,Completed
+O001533,2023-04-19,C0190,Retail Store,Cash,Completed
+O001534,2024-09-01,C0419,Online,UPI,Completed
+O001535,2025-02-15,C0484,Marketplace,Debit Card,Completed
+O001536,2023-08-25,C0243,Retail Store,Cash,Completed
+O001537,2023-06-20,C0243,Retail Store,Credit Card,Completed
+O001538,2025-07-31,C0025,Online,Debit Card,Completed
+O001539,2024-12-10,C0490,Online,Credit Card,Returned
+O001540,2024-06-18,C0009,Online,Debit Card,Completed
+O001541,2024-04-05,C0014,Online,Cash,Returned
+O001542,2023-01-23,C0237,Online,Debit Card,Completed
+O001543,2023-07-25,C0002,Retail Store,Cash,Completed
+O001544,2025-09-09,C0083,Marketplace,Debit Card,Returned
+O001545,2024-01-07,C0314,Online,Credit Card,Completed
+O001546,2025-02-10,C0353,Online,UPI,Completed
+O001547,2025-02-09,C0150,Retail Store,Debit Card,Completed
+O001548,2023-12-05,C0398,Online,Net Banking,Completed
+O001549,2023-08-12,C0304,Marketplace,Debit Card,Completed
+O001550,2025-01-27,C0115,Online,UPI,Completed
+O001551,2023-04-13,C0357,Online,Credit Card,Completed
+O001552,2024-06-25,C0297,Online,Debit Card,Completed
+O001553,2025-08-30,C0407,Marketplace,Cash,Completed
+O001554,2025-02-17,C0078,Online,UPI,Completed
+O001555,2025-04-16,C0116,Retail Store,UPI,Completed
+O001556,2023-04-02,C0152,Online,Credit Card,Completed
+O001557,2023-08-07,C0171,Online,UPI,Completed
+O001558,2023-10-29,C0445,Marketplace,Cash,Returned
+O001559,2023-11-17,C0367,Online,Credit Card,Completed
+O001560,2023-08-01,C0273,Online,Credit Card,Completed
+O001561,2025-11-30,C0271,Retail Store,UPI,Completed
+O001562,2023-06-30,C0443,Marketplace,Credit Card,Completed
+O001563,2025-02-14,C0224,Online,Cash,Completed
+O001564,2024-10-04,C0113,Online,Credit Card,Completed
+O001565,2024-10-30,C0069,Marketplace,UPI,Completed
+O001566,2023-08-24,C0166,Retail Store,UPI,Completed
+O001567,2023-12-03,C0327,Marketplace,Cash,Completed
+O001568,2024-10-26,C0236,Retail Store,Cash,Completed
+O001569,2023-11-24,C0211,Retail Store,UPI,Completed
+O001570,2025-01-30,C0241,Online,Debit Card,Completed
+O001571,2023-02-13,C0488,Online,UPI,Completed
+O001572,2023-03-21,C0499,Retail Store,Credit Card,Completed
+O001573,2025-03-08,C0081,Retail Store,UPI,Completed
+O001574,2024-11-06,C0058,Marketplace,Net Banking,Completed
+O001575,2023-02-17,C0123,Retail Store,Cash,Completed
+O001576,2025-09-11,C0426,Online,UPI,Cancelled
+O001577,2023-01-06,C0230,Retail Store,Credit Card,Completed
+O001578,2025-11-12,C0432,Retail Store,UPI,Completed
+O001579,2025-03-09,C0324,Online,UPI,Completed
+O001580,2025-12-18,C0277,Retail Store,UPI,Completed
+O001581,2025-11-05,C0141,Retail Store,UPI,Completed
+O001582,2023-12-09,C0173,Online,Cash,Completed
+O001583,2025-04-08,C0074,Retail Store,UPI,Completed
+O001584,2023-08-19,C0260,Retail Store,Net Banking,Completed
+O001585,2024-05-31,C0141,Marketplace,UPI,Completed
+O001586,2023-09-20,C0147,Online,Credit Card,Completed
+O001587,2024-06-16,C0020,Retail Store,Credit Card,Completed
+O001588,2025-08-13,C0400,Online,Cash,Returned
+O001589,2024-04-22,C0470,Retail Store,UPI,Completed
+O001590,2023-04-12,C0250,Online,UPI,Completed
+O001591,2023-12-22,C0269,Marketplace,Debit Card,Returned
+O001592,2025-05-11,C0463,Marketplace,Debit Card,Completed
+O001593,2024-07-25,C0256,Retail Store,Debit Card,Completed
+O001594,2024-09-05,C0312,Retail Store,UPI,Completed
+O001595,2024-04-17,C0215,Online,UPI,Completed
+O001596,2023-11-17,C0258,Retail Store,Net Banking,Returned
+O001597,2024-10-16,C0261,Online,Debit Card,Returned
+O001598,2024-11-24,C0356,Retail Store,Debit Card,Completed
+O001599,2025-09-10,C0303,Online,UPI,Completed
+O001600,2024-11-07,C0252,Retail Store,UPI,Completed
+O001601,2025-12-25,C0038,Online,Cash,Returned
+O001602,2025-06-24,C0453,Retail Store,Debit Card,Completed
+O001603,2023-03-28,C0445,Retail Store,UPI,Completed
+O001604,2024-03-05,C0093,Online,Cash,Completed
+O001605,2024-02-26,C0147,Online,Debit Card,Completed
+O001606,2023-01-04,C0487,Marketplace,UPI,Completed
+O001607,2023-07-17,C0161,Retail Store,Credit Card,Cancelled
+O001608,2025-04-14,C0407,Online,Debit Card,Completed
+O001609,2024-01-21,C0393,Online,Credit Card,Completed
+O001610,2023-06-11,C0431,Online,Credit Card,Completed
+O001611,2023-11-11,C0009,Retail Store,Debit Card,Returned
+O001612,2023-10-28,C0242,Retail Store,UPI,Completed
+O001613,2023-07-11,C0283,Online,Cash,Completed
+O001614,2023-04-21,C0419,Retail Store,Credit Card,Completed
+O001615,2025-04-16,C0113,Retail Store,Credit Card,Completed
+O001616,2025-06-21,C0154,Retail Store,Debit Card,Completed
+O001617,2024-06-27,C0090,Online,Debit Card,Completed
+O001618,2024-11-04,C0381,Online,Credit Card,Completed
+O001619,2025-10-03,C0500,Online,Debit Card,Completed
+O001620,2025-07-11,C0071,Online,Cash,Completed
+O001621,2023-02-05,C0117,Online,Net Banking,Cancelled
+O001622,2025-11-09,C0154,Online,Net Banking,Completed
+O001623,2023-03-15,C0445,Online,UPI,Completed
+O001624,2023-01-30,C0223,Retail Store,Credit Card,Completed
+O001625,2024-03-17,C0141,Online,Credit Card,Cancelled
+O001626,2025-03-27,C0162,Retail Store,UPI,Returned
+O001627,2023-03-29,C0300,Online,Net Banking,Completed
+O001628,2023-11-17,C0194,Retail Store,UPI,Completed
+O001629,2023-10-15,C0071,Online,UPI,Completed
+O001630,2024-03-11,C0411,Retail Store,UPI,Completed
+O001631,2025-12-15,C0212,Retail Store,UPI,Completed
+O001632,2023-12-29,C0129,Online,UPI,Cancelled
+O001633,2023-08-17,C0365,Retail Store,Debit Card,Completed
+O001634,2023-05-14,C0373,Online,Debit Card,Completed
+O001635,2023-08-05,C0078,Retail Store,UPI,Completed
+O001636,2023-05-26,C0037,Online,UPI,Completed
+O001637,2024-09-20,C0023,Online,Net Banking,Completed
+O001638,2024-04-05,C0383,Online,UPI,Completed
+O001639,2024-06-29,C0313,Marketplace,Credit Card,Completed
+O001640,2025-06-30,C0397,Online,Credit Card,Completed
+O001641,2024-09-27,C0314,Retail Store,Credit Card,Completed
+O001642,2023-06-19,C0201,Online,Net Banking,Completed
+O001643,2024-02-17,C0295,Online,Debit Card,Completed
+O001644,2023-12-09,C0362,Online,Cash,Completed
+O001645,2025-06-24,C0200,Marketplace,Net Banking,Completed
+O001646,2023-12-03,C0458,Retail Store,UPI,Completed
+O001647,2023-06-01,C0450,Online,UPI,Completed
+O001648,2025-03-16,C0401,Retail Store,Credit Card,Completed
+O001649,2024-04-14,C0497,Online,Credit Card,Completed
+O001650,2023-04-15,C0196,Online,Credit Card,Completed
+O001651,2025-01-25,C0058,Retail Store,UPI,Cancelled
+O001652,2023-08-19,C0243,Online,UPI,Completed
+O001653,2025-08-08,C0373,Online,Credit Card,Completed
+O001654,2025-06-30,C0390,Retail Store,Debit Card,Completed
+O001655,2024-02-09,C0195,Online,Debit Card,Completed
+O001656,2024-08-31,C0147,Marketplace,Cash,Completed
+O001657,2024-09-13,C0223,Retail Store,UPI,Completed
+O001658,2024-12-16,C0402,Marketplace,Credit Card,Completed
+O001659,2023-03-17,C0031,Retail Store,Cash,Completed
+O001660,2023-12-22,C0165,Marketplace,Debit Card,Completed
+O001661,2023-07-06,C0115,Online,Debit Card,Completed
+O001662,2025-02-02,C0403,Retail Store,Credit Card,Completed
+O001663,2023-03-17,C0235,Retail Store,UPI,Returned
+O001664,2024-07-20,C0044,Marketplace,Net Banking,Completed
+O001665,2025-03-08,C0131,Online,Debit Card,Completed
+O001666,2025-11-04,C0023,Retail Store,Credit Card,Completed
+O001667,2023-11-12,C0238,Retail Store,Credit Card,Completed
+O001668,2023-01-09,C0499,Online,Credit Card,Completed
+O001669,2025-03-03,C0284,Marketplace,UPI,Completed
+O001670,2023-01-02,C0435,Online,Debit Card,Completed
+O001671,2023-03-14,C0372,Online,Credit Card,Completed
+O001672,2025-12-20,C0442,Retail Store,UPI,Completed
+O001673,2025-08-02,C0156,Online,Credit Card,Completed
+O001674,2025-02-13,C0476,Online,Cash,Completed
+O001675,2025-07-03,C0120,Online,Credit Card,Completed
+O001676,2023-03-24,C0220,Online,Credit Card,Returned
+O001677,2023-04-08,C0341,Retail Store,Debit Card,Completed
+O001678,2023-11-26,C0144,Marketplace,Net Banking,Cancelled
+O001679,2023-01-27,C0133,Retail Store,Debit Card,Returned
+O001680,2025-08-30,C0066,Online,Net Banking,Completed
+O001681,2023-03-03,C0003,Retail Store,UPI,Completed
+O001682,2024-08-18,C0251,Marketplace,Cash,Completed
+O001683,2025-07-23,C0494,Retail Store,Cash,Completed
+O001684,2025-03-15,C0111,Online,Credit Card,Completed
+O001685,2023-09-15,C0221,Online,Debit Card,Completed
+O001686,2024-05-30,C0468,Marketplace,UPI,Completed
+O001687,2024-08-23,C0387,Marketplace,Credit Card,Returned
+O001688,2025-04-20,C0003,Online,UPI,Completed
+O001689,2024-04-11,C0251,Marketplace,UPI,Completed
+O001690,2023-11-09,C0072,Online,Cash,Completed
+O001691,2025-05-21,C0124,Online,UPI,Completed
+O001692,2025-08-28,C0124,Retail Store,Debit Card,Completed
+O001693,2024-06-19,C0307,Retail Store,UPI,Completed
+O001694,2023-01-31,C0100,Online,Credit Card,Completed
+O001695,2024-07-02,C0126,Marketplace,Credit Card,Cancelled
+O001696,2025-08-31,C0113,Marketplace,UPI,Completed
+O001697,2025-12-19,C0179,Online,Debit Card,Completed
+O001698,2024-03-15,C0329,Retail Store,Cash,Completed
+O001699,2023-06-14,C0200,Retail Store,Credit Card,Completed
+O001700,2024-09-18,C0164,Retail Store,Cash,Completed
+O001701,2025-06-28,C0259,Marketplace,Debit Card,Completed
+O001702,2025-10-31,C0308,Retail Store,Debit Card,Completed
+O001703,2023-02-26,C0008,Online,UPI,Completed
+O001704,2023-11-15,C0446,Online,UPI,Completed
+O001705,2024-06-07,C0459,Marketplace,Net Banking,Completed
+O001706,2023-04-18,C0302,Marketplace,Credit Card,Completed
+O001707,2025-08-28,C0288,Online,Credit Card,Completed
+O001708,2023-05-03,C0348,Online,Net Banking,Completed
+O001709,2024-12-29,C0221,Retail Store,UPI,Completed
+O001710,2025-10-02,C0183,Online,Net Banking,Completed
+O001711,2025-01-20,C0177,Online,UPI,Completed
+O001712,2025-04-15,C0080,Marketplace,Cash,Completed
+O001713,2023-10-16,C0421,Marketplace,UPI,Cancelled
+O001714,2025-06-25,C0161,Marketplace,UPI,Cancelled
+O001715,2024-04-03,C0143,Retail Store,Debit Card,Completed
+O001716,2023-03-09,C0483,Online,UPI,Completed
+O001717,2024-02-06,C0254,Marketplace,Cash,Completed
+O001718,2024-01-19,C0311,Online,Debit Card,Returned
+O001719,2024-07-24,C0123,Online,UPI,Completed
+O001720,2023-10-17,C0139,Marketplace,UPI,Completed
+O001721,2024-05-21,C0365,Retail Store,Cash,Completed
+O001722,2024-04-13,C0226,Marketplace,Debit Card,Cancelled
+O001723,2023-12-24,C0074,Online,Net Banking,Completed
+O001724,2025-02-01,C0418,Marketplace,UPI,Completed
+O001725,2023-12-01,C0202,Retail Store,Cash,Completed
+O001726,2025-04-18,C0335,Retail Store,Credit Card,Completed
+O001727,2023-10-02,C0171,Marketplace,Debit Card,Completed
+O001728,2025-08-05,C0281,Online,Credit Card,Completed
+O001729,2024-02-04,C0388,Retail Store,UPI,Returned
+O001730,2023-02-14,C0443,Retail Store,Cash,Completed
+O001731,2023-06-14,C0104,Retail Store,Cash,Completed
+O001732,2025-06-01,C0337,Marketplace,Credit Card,Completed
+O001733,2025-08-12,C0458,Retail Store,Cash,Completed
+O001734,2023-08-21,C0322,Online,UPI,Completed
+O001735,2024-10-21,C0072,Online,UPI,Completed
+O001736,2024-09-20,C0095,Marketplace,UPI,Completed
+O001737,2023-05-27,C0102,Marketplace,Credit Card,Completed
+O001738,2024-05-09,C0054,Marketplace,UPI,Completed
+O001739,2025-01-29,C0377,Online,Credit Card,Completed
+O001740,2025-11-25,C0483,Online,UPI,Completed
+O001741,2025-07-17,C0259,Retail Store,Debit Card,Completed
+O001742,2023-04-18,C0300,Retail Store,Net Banking,Completed
+O001743,2023-09-18,C0387,Online,Debit Card,Completed
+O001744,2024-04-23,C0208,Retail Store,UPI,Completed
+O001745,2023-06-14,C0237,Online,Net Banking,Completed
+O001746,2024-09-16,C0295,Retail Store,UPI,Completed
+O001747,2023-01-10,C0153,Online,Debit Card,Returned
+O001748,2023-05-05,C0031,Online,Credit Card,Returned
+O001749,2023-02-21,C0284,Online,Credit Card,Completed
+O001750,2023-11-20,C0412,Marketplace,UPI,Completed
+O001751,2025-04-14,C0037,Retail Store,Net Banking,Completed
+O001752,2023-07-14,C0109,Marketplace,Cash,Completed
+O001753,2025-12-16,C0132,Online,Debit Card,Completed
+O001754,2023-10-23,C0403,Online,Cash,Completed
+O001755,2023-02-19,C0253,Online,Cash,Completed
+O001756,2024-01-03,C0268,Retail Store,UPI,Completed
+O001757,2025-03-30,C0323,Online,Debit Card,Completed
+O001758,2023-04-27,C0139,Retail Store,Credit Card,Completed
+O001759,2023-03-20,C0357,Marketplace,Credit Card,Completed
+O001760,2025-07-19,C0016,Marketplace,UPI,Completed
+O001761,2024-10-10,C0057,Online,Cash,Completed
+O001762,2024-01-11,C0408,Retail Store,Debit Card,Completed
+O001763,2025-04-07,C0330,Online,UPI,Completed
+O001764,2025-07-13,C0089,Online,Credit Card,Completed
+O001765,2024-01-29,C0220,Retail Store,Credit Card,Returned
+O001766,2024-09-06,C0026,Retail Store,Debit Card,Completed
+O001767,2023-01-12,C0336,Retail Store,Cash,Completed
+O001768,2023-12-02,C0378,Online,UPI,Completed
+O001769,2024-10-13,C0140,Marketplace,Credit Card,Completed
+O001770,2023-08-04,C0176,Marketplace,Debit Card,Completed
+O001771,2025-12-21,C0119,Online,Credit Card,Completed
+O001772,2025-11-29,C0195,Marketplace,Credit Card,Completed
+O001773,2023-10-10,C0137,Online,UPI,Cancelled
+O001774,2024-03-10,C0124,Retail Store,UPI,Completed
+O001775,2023-07-27,C0216,Marketplace,Credit Card,Completed
+O001776,2024-07-05,C0430,Marketplace,Cash,Completed
+O001777,2023-05-16,C0382,Marketplace,Credit Card,Completed
+O001778,2024-03-04,C0149,Online,UPI,Completed
+O001779,2024-08-31,C0472,Marketplace,Debit Card,Returned
+O001780,2024-10-31,C0106,Retail Store,Cash,Completed
+O001781,2024-10-15,C0456,Online,Credit Card,Completed
+O001782,2023-08-31,C0155,Online,UPI,Cancelled
+O001783,2025-05-17,C0271,Retail Store,Debit Card,Completed
+O001784,2025-01-27,C0102,Retail Store,Credit Card,Completed
+O001785,2025-04-04,C0382,Retail Store,Debit Card,Completed
+O001786,2024-05-27,C0159,Marketplace,UPI,Completed
+O001787,2025-09-04,C0437,Retail Store,UPI,Returned
+O001788,2024-03-02,C0042,Online,Credit Card,Completed
+O001789,2025-06-01,C0252,Online,Debit Card,Completed
+O001790,2023-08-11,C0080,Retail Store,Credit Card,Completed
+O001791,2023-09-28,C0445,Retail Store,UPI,Completed
+O001792,2024-07-30,C0209,Retail Store,Credit Card,Completed
+O001793,2024-08-31,C0338,Retail Store,Debit Card,Completed
+O001794,2025-03-28,C0440,Retail Store,UPI,Completed
+O001795,2023-11-22,C0268,Retail Store,Debit Card,Completed
+O001796,2025-08-13,C0029,Marketplace,Debit Card,Completed
+O001797,2023-12-28,C0111,Online,Credit Card,Completed
+O001798,2024-08-07,C0107,Retail Store,Cash,Returned
+O001799,2025-10-17,C0458,Retail Store,Net Banking,Completed
+O001800,2024-08-13,C0455,Online,UPI,Completed
+O001801,2025-01-16,C0239,Retail Store,UPI,Completed
+O001802,2025-09-21,C0446,Retail Store,UPI,Completed
+O001803,2025-12-03,C0124,Retail Store,UPI,Completed
+O001804,2024-06-30,C0340,Retail Store,Credit Card,Completed
+O001805,2024-04-01,C0196,Online,Cash,Completed
+O001806,2023-08-04,C0121,Online,Net Banking,Completed
+O001807,2024-08-11,C0126,Online,UPI,Completed
+O001808,2025-10-02,C0210,Online,Credit Card,Completed
+O001809,2024-06-17,C0170,Retail Store,UPI,Cancelled
+O001810,2024-01-17,C0106,Marketplace,Credit Card,Completed
+O001811,2023-04-28,C0168,Retail Store,UPI,Completed
+O001812,2024-03-02,C0065,Online,Cash,Completed
+O001813,2023-09-17,C0485,Online,Net Banking,Completed
+O001814,2025-12-05,C0190,Online,UPI,Completed
+O001815,2024-07-31,C0054,Retail Store,Debit Card,Completed
+O001816,2023-05-31,C0288,Online,Credit Card,Completed
+O001817,2023-03-15,C0442,Retail Store,Net Banking,Completed
+O001818,2025-07-20,C0180,Retail Store,Credit Card,Completed
+O001819,2025-10-16,C0423,Retail Store,UPI,Completed
+O001820,2025-04-15,C0306,Online,Debit Card,Completed
+O001821,2023-05-16,C0370,Online,UPI,Completed
+O001822,2023-04-18,C0149,Retail Store,Debit Card,Completed
+O001823,2023-08-05,C0019,Retail Store,UPI,Completed
+O001824,2025-04-02,C0173,Online,Debit Card,Completed
+O001825,2025-04-18,C0463,Marketplace,Net Banking,Completed
+O001826,2025-07-06,C0396,Retail Store,UPI,Completed
+O001827,2023-04-17,C0393,Online,Credit Card,Completed
+O001828,2023-06-17,C0440,Online,Debit Card,Completed
+O001829,2025-09-12,C0187,Online,UPI,Completed
+O001830,2025-10-13,C0162,Online,Credit Card,Completed
+O001831,2025-03-05,C0463,Online,Debit Card,Completed
+O001832,2023-04-27,C0286,Retail Store,Credit Card,Completed
+O001833,2023-03-17,C0149,Online,Net Banking,Completed
+O001834,2023-03-02,C0140,Marketplace,Credit Card,Returned
+O001835,2025-01-27,C0439,Marketplace,Debit Card,Completed
+O001836,2025-07-15,C0027,Online,UPI,Completed
+O001837,2024-11-22,C0031,Online,UPI,Completed
+O001838,2023-10-15,C0369,Retail Store,UPI,Completed
+O001839,2025-04-09,C0001,Marketplace,Cash,Completed
+O001840,2023-03-06,C0086,Marketplace,Net Banking,Completed
+O001841,2025-06-25,C0496,Online,Net Banking,Completed
+O001842,2025-09-03,C0213,Online,UPI,Completed
+O001843,2025-02-25,C0364,Online,Credit Card,Returned
+O001844,2025-08-20,C0244,Marketplace,Net Banking,Completed
+O001845,2024-10-03,C0046,Retail Store,Debit Card,Completed
+O001846,2024-05-27,C0093,Retail Store,UPI,Completed
+O001847,2023-12-20,C0381,Retail Store,Net Banking,Completed
+O001848,2025-10-06,C0048,Online,UPI,Completed
+O001849,2025-02-02,C0298,Retail Store,UPI,Completed
+O001850,2023-07-28,C0175,Online,Cash,Completed
+O001851,2025-11-13,C0186,Retail Store,Credit Card,Completed
+O001852,2023-03-06,C0477,Retail Store,Credit Card,Completed
+O001853,2024-10-05,C0303,Retail Store,Credit Card,Completed
+O001854,2023-07-28,C0308,Online,Cash,Completed
+O001855,2024-12-28,C0176,Marketplace,UPI,Completed
+O001856,2024-03-27,C0191,Retail Store,Debit Card,Completed
+O001857,2024-04-23,C0343,Online,UPI,Completed
+O001858,2025-01-05,C0020,Online,UPI,Cancelled
+O001859,2025-04-07,C0119,Retail Store,Credit Card,Completed
+O001860,2024-02-21,C0301,Online,Credit Card,Completed
+O001861,2025-12-28,C0312,Online,UPI,Completed
+O001862,2024-06-29,C0047,Online,Credit Card,Completed
+O001863,2023-06-25,C0394,Online,Debit Card,Cancelled
+O001864,2023-01-08,C0272,Online,Credit Card,Completed
+O001865,2023-08-10,C0119,Retail Store,Debit Card,Completed
+O001866,2025-01-26,C0376,Online,Net Banking,Completed
+O001867,2024-08-13,C0496,Retail Store,Credit Card,Completed
+O001868,2024-01-05,C0212,Online,Credit Card,Completed
+O001869,2024-06-11,C0142,Online,Credit Card,Completed
+O001870,2025-07-06,C0150,Online,Credit Card,Completed
+O001871,2024-09-17,C0297,Retail Store,UPI,Completed
+O001872,2023-03-05,C0024,Marketplace,UPI,Completed
+O001873,2023-02-23,C0242,Retail Store,UPI,Returned
+O001874,2024-06-11,C0013,Online,Credit Card,Completed
+O001875,2024-03-18,C0020,Online,Cash,Completed
+O001876,2025-07-20,C0216,Online,Debit Card,Completed
+O001877,2024-09-30,C0373,Marketplace,Credit Card,Completed
+O001878,2025-04-08,C0442,Online,Credit Card,Completed
+O001879,2024-10-02,C0044,Marketplace,Debit Card,Completed
+O001880,2024-01-14,C0123,Retail Store,Credit Card,Completed
+O001881,2024-12-20,C0211,Retail Store,Credit Card,Returned
+O001882,2024-11-11,C0288,Marketplace,Debit Card,Completed
+O001883,2025-02-27,C0494,Online,UPI,Completed
+O001884,2023-07-27,C0343,Retail Store,Credit Card,Cancelled
+O001885,2024-12-03,C0270,Online,Credit Card,Completed
+O001886,2023-11-09,C0031,Marketplace,Debit Card,Completed
+O001887,2025-05-15,C0041,Retail Store,Cash,Completed
+O001888,2025-05-24,C0077,Online,Net Banking,Completed
+O001889,2024-11-15,C0331,Marketplace,Credit Card,Completed
+O001890,2025-11-02,C0166,Online,UPI,Completed
+O001891,2024-08-11,C0121,Online,Debit Card,Completed
+O001892,2023-01-28,C0336,Retail Store,Net Banking,Completed
+O001893,2024-10-25,C0408,Online,Cash,Completed
+O001894,2025-05-01,C0220,Marketplace,Net Banking,Completed
+O001895,2023-04-21,C0441,Retail Store,UPI,Completed
+O001896,2023-04-25,C0368,Retail Store,Debit Card,Completed
+O001897,2025-07-13,C0359,Online,Net Banking,Completed
+O001898,2024-07-31,C0434,Online,Debit Card,Returned
+O001899,2025-12-05,C0092,Marketplace,Debit Card,Completed
+O001900,2025-08-13,C0380,Online,Credit Card,Completed
+O001901,2024-08-30,C0479,Retail Store,Debit Card,Completed
+O001902,2025-01-13,C0497,Online,UPI,Completed
+O001903,2023-12-29,C0290,Online,UPI,Returned
+O001904,2023-04-09,C0378,Retail Store,Net Banking,Cancelled
+O001905,2024-03-12,C0445,Retail Store,Cash,Completed
+O001906,2024-10-10,C0427,Retail Store,Net Banking,Completed
+O001907,2023-07-19,C0449,Marketplace,UPI,Completed
+O001908,2023-08-31,C0417,Online,UPI,Completed
+O001909,2023-01-17,C0191,Online,UPI,Completed
+O001910,2025-03-14,C0366,Online,Net Banking,Completed
+O001911,2025-09-11,C0206,Retail Store,Debit Card,Completed
+O001912,2025-06-25,C0401,Online,Cash,Completed
+O001913,2024-02-21,C0406,Retail Store,Credit Card,Completed
+O001914,2024-10-11,C0468,Online,Credit Card,Completed
+O001915,2025-11-18,C0295,Marketplace,Net Banking,Completed
+O001916,2024-10-09,C0238,Marketplace,UPI,Returned
+O001917,2023-11-20,C0083,Marketplace,Cash,Returned
+O001918,2024-01-06,C0320,Online,Debit Card,Completed
+O001919,2025-03-07,C0284,Marketplace,UPI,Completed
+O001920,2024-05-03,C0258,Online,UPI,Completed
+O001921,2025-07-05,C0339,Online,Net Banking,Completed
+O001922,2025-08-04,C0426,Online,Debit Card,Completed
+O001923,2023-02-09,C0075,Online,Net Banking,Completed
+O001924,2025-03-03,C0216,Retail Store,Net Banking,Completed
+O001925,2024-02-10,C0362,Online,Credit Card,Completed
+O001926,2024-07-23,C0410,Online,Net Banking,Completed
+O001927,2023-10-17,C0390,Retail Store,Cash,Completed
+O001928,2024-02-08,C0400,Marketplace,UPI,Returned
+O001929,2023-12-28,C0428,Retail Store,Net Banking,Completed
+O001930,2023-02-25,C0481,Retail Store,UPI,Returned
+O001931,2025-05-07,C0305,Online,UPI,Completed
+O001932,2023-06-06,C0125,Marketplace,Credit Card,Completed
+O001933,2024-02-16,C0282,Online,Net Banking,Returned
+O001934,2023-07-31,C0355,Online,UPI,Cancelled
+O001935,2023-06-25,C0051,Online,Credit Card,Cancelled
+O001936,2024-02-13,C0379,Retail Store,Debit Card,Completed
+O001937,2025-10-03,C0273,Online,UPI,Completed
+O001938,2025-10-30,C0469,Retail Store,Net Banking,Completed
+O001939,2024-02-22,C0106,Online,Cash,Completed
+O001940,2024-07-07,C0454,Online,UPI,Returned
+O001941,2025-12-15,C0225,Online,UPI,Completed
+O001942,2023-09-15,C0287,Online,Cash,Completed
+O001943,2025-10-31,C0331,Online,UPI,Returned
+O001944,2023-04-26,C0290,Retail Store,UPI,Cancelled
+O001945,2023-09-05,C0452,Retail Store,Cash,Returned
+O001946,2024-01-06,C0084,Online,Net Banking,Completed
+O001947,2023-02-10,C0365,Retail Store,Debit Card,Completed
+O001948,2025-06-12,C0488,Online,Credit Card,Cancelled
+O001949,2025-07-25,C0111,Online,Cash,Completed
+O001950,2024-02-24,C0128,Online,Debit Card,Completed
+O001951,2025-07-04,C0238,Retail Store,Debit Card,Cancelled
+O001952,2025-04-25,C0363,Online,Net Banking,Completed
+O001953,2025-05-27,C0480,Retail Store,Debit Card,Completed
+O001954,2025-05-28,C0398,Online,Credit Card,Completed
+O001955,2024-09-19,C0398,Retail Store,Credit Card,Completed
+O001956,2023-05-02,C0221,Online,Credit Card,Returned
+O001957,2025-10-08,C0323,Retail Store,Credit Card,Completed
+O001958,2024-10-28,C0106,Retail Store,Credit Card,Completed
+O001959,2025-09-13,C0232,Online,Credit Card,Completed
+O001960,2025-11-16,C0095,Online,Net Banking,Returned
+O001961,2023-07-24,C0014,Retail Store,Credit Card,Returned
+O001962,2024-03-16,C0429,Marketplace,UPI,Completed
+O001963,2023-07-30,C0403,Marketplace,UPI,Completed
+O001964,2023-02-25,C0256,Online,UPI,Completed
+O001965,2025-11-24,C0008,Retail Store,Net Banking,Completed
+O001966,2025-10-08,C0046,Online,Credit Card,Completed
+O001967,2025-10-17,C0056,Online,UPI,Completed
+O001968,2025-08-25,C0359,Retail Store,Net Banking,Completed
+O001969,2024-12-11,C0102,Retail Store,UPI,Completed
+O001970,2024-07-25,C0126,Retail Store,UPI,Completed
+O001971,2025-12-21,C0431,Marketplace,Net Banking,Completed
+O001972,2024-08-27,C0439,Online,Credit Card,Completed
+O001973,2024-12-04,C0382,Retail Store,Net Banking,Completed
+O001974,2023-08-20,C0155,Online,Net Banking,Completed
+O001975,2025-03-28,C0290,Online,Cash,Completed
+O001976,2025-06-16,C0101,Online,UPI,Cancelled
+O001977,2025-01-12,C0429,Marketplace,Net Banking,Completed
+O001978,2024-06-29,C0043,Retail Store,Debit Card,Returned
+O001979,2023-08-05,C0373,Online,UPI,Completed
+O001980,2023-02-07,C0256,Retail Store,Cash,Completed
+O001981,2024-11-17,C0379,Marketplace,Credit Card,Completed
+O001982,2025-01-17,C0226,Marketplace,Net Banking,Completed
+O001983,2025-04-26,C0080,Retail Store,Debit Card,Completed
+O001984,2025-11-06,C0376,Online,Credit Card,Completed
+O001985,2024-06-28,C0316,Retail Store,UPI,Completed
+O001986,2025-06-26,C0233,Marketplace,Cash,Completed
+O001987,2025-02-23,C0187,Marketplace,Credit Card,Completed
+O001988,2023-10-31,C0172,Marketplace,UPI,Returned
+O001989,2025-07-14,C0241,Online,UPI,Completed
+O001990,2023-02-28,C0131,Online,Net Banking,Completed
+O001991,2024-10-17,C0142,Retail Store,UPI,Returned
+O001992,2025-10-26,C0140,Online,Debit Card,Cancelled
+O001993,2024-12-22,C0007,Online,Debit Card,Completed
+O001994,2025-10-23,C0464,Retail Store,UPI,Completed
+O001995,2023-03-03,C0119,Retail Store,Credit Card,Completed
+O001996,2024-08-05,C0083,Marketplace,UPI,Completed
+O001997,2025-05-04,C0076,Retail Store,Cash,Completed
+O001998,2024-12-04,C0495,Marketplace,Net Banking,Returned
+O001999,2025-08-22,C0239,Retail Store,UPI,Completed
+O002000,2024-05-21,C0164,Retail Store,Credit Card,Completed
+O002001,2025-01-17,C0202,Online,Credit Card,Completed
+O002002,2024-04-04,C0045,Retail Store,Cash,Completed
+O002003,2025-08-12,C0157,Online,Credit Card,Cancelled
+O002004,2023-05-11,C0125,Online,Credit Card,Completed
+O002005,2023-10-06,C0402,Online,Cash,Completed
+O002006,2023-04-16,C0030,Marketplace,UPI,Completed
+O002007,2025-02-07,C0213,Retail Store,Credit Card,Completed
+O002008,2023-09-12,C0396,Marketplace,UPI,Completed
+O002009,2023-12-14,C0417,Marketplace,Debit Card,Completed
+O002010,2025-07-05,C0257,Marketplace,Credit Card,Returned
+O002011,2024-01-30,C0112,Online,Cash,Cancelled
+O002012,2023-06-09,C0169,Marketplace,Credit Card,Completed
+O002013,2023-01-23,C0112,Marketplace,UPI,Completed
+O002014,2023-09-06,C0332,Marketplace,Net Banking,Completed
+O002015,2025-09-28,C0147,Online,Net Banking,Completed
+O002016,2024-08-23,C0316,Online,Debit Card,Completed
+O002017,2025-12-25,C0328,Marketplace,Debit Card,Completed
+O002018,2023-08-24,C0470,Online,UPI,Returned
+O002019,2024-01-20,C0186,Online,Debit Card,Completed
+O002020,2023-06-28,C0481,Online,UPI,Completed
+O002021,2024-03-12,C0201,Online,UPI,Cancelled
+O002022,2024-09-08,C0341,Online,Cash,Completed
+O002023,2025-06-03,C0331,Marketplace,Debit Card,Completed
+O002024,2024-02-08,C0409,Marketplace,UPI,Returned
+O002025,2025-04-24,C0235,Marketplace,UPI,Completed
+O002026,2024-11-16,C0397,Online,Cash,Completed
+O002027,2023-11-16,C0178,Online,UPI,Completed
+O002028,2025-09-25,C0246,Online,UPI,Completed
+O002029,2024-04-20,C0250,Online,UPI,Cancelled
+O002030,2023-06-15,C0353,Online,UPI,Completed
+O002031,2025-11-20,C0310,Retail Store,UPI,Completed
+O002032,2025-09-27,C0040,Marketplace,Cash,Completed
+O002033,2023-02-24,C0405,Retail Store,Credit Card,Completed
+O002034,2025-09-15,C0380,Online,Credit Card,Completed
+O002035,2025-11-03,C0053,Online,Debit Card,Returned
+O002036,2025-06-26,C0481,Online,Credit Card,Completed
+O002037,2023-10-07,C0331,Online,Debit Card,Completed
+O002038,2024-11-22,C0043,Retail Store,Debit Card,Completed
+O002039,2024-08-12,C0246,Online,Debit Card,Completed
+O002040,2024-11-10,C0419,Retail Store,Debit Card,Completed
+O002041,2024-11-06,C0140,Marketplace,Net Banking,Returned
+O002042,2024-11-30,C0467,Online,Debit Card,Completed
+O002043,2024-07-16,C0210,Online,Net Banking,Completed
+O002044,2025-01-26,C0114,Online,UPI,Completed
+O002045,2024-07-30,C0179,Online,Debit Card,Completed
+O002046,2023-01-19,C0263,Retail Store,Debit Card,Completed
+O002047,2023-02-08,C0345,Marketplace,UPI,Returned
+O002048,2025-11-15,C0464,Marketplace,Net Banking,Completed
+O002049,2025-09-22,C0098,Retail Store,UPI,Completed
+O002050,2024-10-03,C0481,Online,UPI,Completed
+O002051,2023-07-11,C0264,Online,Net Banking,Completed
+O002052,2025-05-05,C0064,Online,UPI,Completed
+O002053,2023-06-06,C0464,Online,Credit Card,Completed
+O002054,2024-02-18,C0175,Marketplace,Credit Card,Completed
+O002055,2023-12-28,C0311,Retail Store,Net Banking,Returned
+O002056,2023-01-14,C0350,Online,Credit Card,Completed
+O002057,2025-06-02,C0007,Online,Debit Card,Completed
+O002058,2024-07-12,C0111,Online,Net Banking,Completed
+O002059,2023-12-13,C0344,Marketplace,Debit Card,Cancelled
+O002060,2024-07-09,C0163,Online,Cash,Completed
+O002061,2023-01-01,C0005,Online,Net Banking,Returned
+O002062,2024-04-23,C0012,Online,Credit Card,Completed
+O002063,2024-07-22,C0414,Marketplace,Cash,Cancelled
+O002064,2024-01-07,C0077,Retail Store,Credit Card,Completed
+O002065,2025-06-28,C0051,Retail Store,UPI,Completed
+O002066,2023-10-01,C0282,Online,UPI,Completed
+O002067,2023-05-31,C0060,Online,Debit Card,Completed
+O002068,2024-07-31,C0327,Marketplace,UPI,Completed
+O002069,2025-08-29,C0273,Online,Debit Card,Completed
+O002070,2024-02-15,C0325,Online,Credit Card,Completed
+O002071,2023-02-21,C0246,Retail Store,Credit Card,Completed
+O002072,2025-11-28,C0390,Online,UPI,Completed
+O002073,2024-05-01,C0323,Online,Net Banking,Completed
+O002074,2023-07-09,C0208,Marketplace,Credit Card,Cancelled
+O002075,2024-11-05,C0008,Retail Store,UPI,Completed
+O002076,2025-10-23,C0137,Online,Credit Card,Completed
+O002077,2023-11-18,C0066,Online,Credit Card,Completed
+O002078,2024-08-25,C0008,Retail Store,Debit Card,Completed
+O002079,2024-08-17,C0137,Online,Credit Card,Completed
+O002080,2023-09-23,C0104,Online,UPI,Completed
+O002081,2024-06-30,C0039,Retail Store,Net Banking,Completed
+O002082,2023-04-30,C0157,Retail Store,Credit Card,Completed
+O002083,2024-12-05,C0254,Marketplace,UPI,Completed
+O002084,2025-04-10,C0090,Online,Net Banking,Completed
+O002085,2025-11-06,C0137,Online,Debit Card,Completed
+O002086,2023-12-23,C0011,Retail Store,Debit Card,Completed
+O002087,2023-11-09,C0026,Retail Store,Credit Card,Completed
+O002088,2024-08-23,C0079,Online,Credit Card,Completed
+O002089,2025-01-28,C0227,Retail Store,Credit Card,Completed
+O002090,2025-12-22,C0334,Online,UPI,Completed
+O002091,2023-01-28,C0395,Marketplace,UPI,Completed
+O002092,2023-09-18,C0315,Marketplace,Cash,Completed
+O002093,2023-10-15,C0309,Online,Debit Card,Completed
+O002094,2023-10-07,C0468,Marketplace,Credit Card,Completed
+O002095,2024-05-22,C0128,Marketplace,UPI,Completed
+O002096,2025-08-13,C0400,Online,Debit Card,Completed
+O002097,2023-02-03,C0469,Online,UPI,Completed
+O002098,2025-06-12,C0284,Retail Store,UPI,Completed
+O002099,2024-11-07,C0421,Online,UPI,Completed
+O002100,2024-11-04,C0069,Online,Debit Card,Completed
+O002101,2025-01-12,C0440,Online,Debit Card,Completed
+O002102,2023-05-07,C0283,Marketplace,UPI,Completed
+O002103,2025-03-28,C0111,Online,UPI,Completed
+O002104,2023-09-29,C0031,Retail Store,Debit Card,Completed
+O002105,2024-07-19,C0360,Online,Credit Card,Completed
+O002106,2025-01-11,C0216,Online,Debit Card,Completed
+O002107,2024-10-23,C0156,Marketplace,UPI,Completed
+O002108,2023-12-20,C0196,Online,Debit Card,Completed
+O002109,2024-03-09,C0496,Online,Cash,Returned
+O002110,2024-06-05,C0214,Online,Debit Card,Completed
+O002111,2023-02-15,C0040,Retail Store,UPI,Completed
+O002112,2025-03-06,C0140,Online,Debit Card,Completed
+O002113,2023-04-20,C0073,Online,Credit Card,Cancelled
+O002114,2024-05-17,C0343,Online,UPI,Completed
+O002115,2024-12-18,C0401,Online,UPI,Completed
+O002116,2023-03-30,C0421,Online,Cash,Completed
+O002117,2025-12-26,C0317,Retail Store,Credit Card,Completed
+O002118,2024-02-18,C0385,Online,Net Banking,Completed
+O002119,2023-01-18,C0209,Online,Credit Card,Completed
+O002120,2024-12-22,C0314,Retail Store,Credit Card,Completed
+O002121,2024-09-02,C0054,Retail Store,UPI,Completed
+O002122,2024-12-02,C0270,Online,Debit Card,Cancelled
+O002123,2025-04-02,C0279,Online,UPI,Completed
+O002124,2024-06-04,C0016,Online,Credit Card,Returned
+O002125,2025-06-24,C0275,Marketplace,UPI,Completed
+O002126,2024-02-10,C0362,Online,Credit Card,Returned
+O002127,2024-08-19,C0184,Online,Credit Card,Completed
+O002128,2023-06-23,C0273,Online,UPI,Completed
+O002129,2024-11-09,C0144,Online,UPI,Completed
+O002130,2023-10-14,C0136,Online,Cash,Completed
+O002131,2025-02-01,C0065,Online,UPI,Completed
+O002132,2025-05-27,C0164,Retail Store,UPI,Completed
+O002133,2025-07-29,C0402,Retail Store,UPI,Completed
+O002134,2025-10-14,C0468,Retail Store,Credit Card,Completed
+O002135,2023-05-14,C0318,Retail Store,Debit Card,Completed
+O002136,2023-06-01,C0313,Online,UPI,Completed
+O002137,2025-10-11,C0307,Marketplace,Credit Card,Completed
+O002138,2024-02-22,C0238,Retail Store,Debit Card,Completed
+O002139,2023-01-29,C0212,Marketplace,UPI,Completed
+O002140,2023-11-11,C0311,Retail Store,Cash,Completed
+O002141,2025-07-04,C0393,Online,Cash,Completed
+O002142,2024-01-24,C0207,Online,UPI,Completed
+O002143,2023-03-26,C0283,Online,Credit Card,Completed
+O002144,2025-03-01,C0236,Online,UPI,Completed
+O002145,2023-08-02,C0143,Online,UPI,Returned
+O002146,2024-01-22,C0146,Online,Credit Card,Returned
+O002147,2023-01-05,C0040,Online,Credit Card,Completed
+O002148,2024-10-21,C0220,Marketplace,Credit Card,Completed
+O002149,2024-05-02,C0357,Retail Store,UPI,Completed
+O002150,2025-08-07,C0343,Retail Store,UPI,Completed
+O002151,2024-01-02,C0493,Online,Cash,Completed
+O002152,2023-08-13,C0020,Retail Store,Cash,Returned
+O002153,2023-07-01,C0381,Marketplace,UPI,Completed
+O002154,2023-08-08,C0398,Retail Store,Debit Card,Completed
+O002155,2024-05-08,C0219,Retail Store,Credit Card,Completed
+O002156,2023-04-06,C0142,Online,Debit Card,Returned
+O002157,2024-03-16,C0179,Online,Debit Card,Completed
+O002158,2025-07-24,C0342,Retail Store,Net Banking,Completed
+O002159,2025-04-20,C0432,Marketplace,UPI,Completed
+O002160,2024-11-28,C0322,Online,Credit Card,Completed
+O002161,2025-09-04,C0258,Online,Cash,Completed
+O002162,2025-05-04,C0327,Online,UPI,Cancelled
+O002163,2024-12-15,C0036,Online,UPI,Completed
+O002164,2025-08-03,C0305,Marketplace,Debit Card,Completed
+O002165,2023-05-17,C0022,Retail Store,Net Banking,Completed
+O002166,2025-06-14,C0480,Online,Debit Card,Completed
+O002167,2023-11-20,C0445,Online,Net Banking,Returned
+O002168,2025-03-13,C0255,Online,Debit Card,Completed
+O002169,2025-09-27,C0188,Online,UPI,Completed
+O002170,2024-06-27,C0367,Retail Store,Debit Card,Completed
+O002171,2023-04-08,C0319,Marketplace,Net Banking,Completed
+O002172,2024-02-10,C0353,Retail Store,Net Banking,Completed
+O002173,2024-03-21,C0258,Online,UPI,Completed
+O002174,2025-10-22,C0119,Retail Store,UPI,Completed
+O002175,2025-10-29,C0037,Retail Store,Net Banking,Returned
+O002176,2024-09-14,C0142,Online,UPI,Completed
+O002177,2025-11-06,C0265,Retail Store,UPI,Completed
+O002178,2024-04-22,C0213,Retail Store,Net Banking,Completed
+O002179,2024-03-26,C0254,Marketplace,Credit Card,Completed
+O002180,2025-07-04,C0139,Online,UPI,Completed
+O002181,2024-12-31,C0469,Online,UPI,Completed
+O002182,2024-07-26,C0184,Retail Store,UPI,Completed
+O002183,2024-05-15,C0424,Online,Net Banking,Completed
+O002184,2025-02-11,C0196,Online,Credit Card,Completed
+O002185,2025-04-05,C0222,Retail Store,UPI,Completed
+O002186,2024-06-21,C0302,Online,Credit Card,Completed
+O002187,2023-02-04,C0132,Online,UPI,Completed
+O002188,2023-04-22,C0110,Marketplace,UPI,Completed
+O002189,2023-06-07,C0190,Retail Store,UPI,Completed
+O002190,2024-05-20,C0403,Retail Store,Credit Card,Completed
+O002191,2024-11-03,C0073,Retail Store,UPI,Completed
+O002192,2025-05-30,C0219,Online,Credit Card,Completed
+O002193,2023-09-12,C0337,Online,Credit Card,Completed
+O002194,2025-05-11,C0354,Retail Store,Credit Card,Completed
+O002195,2024-12-30,C0218,Online,UPI,Completed
+O002196,2023-02-26,C0041,Online,UPI,Completed
+O002197,2024-01-20,C0008,Online,UPI,Completed
+O002198,2023-11-28,C0235,Marketplace,Credit Card,Completed
+O002199,2025-08-28,C0406,Online,Debit Card,Completed
+O002200,2025-10-05,C0015,Retail Store,UPI,Completed
+O002201,2025-06-16,C0444,Online,Net Banking,Completed
+O002202,2024-08-01,C0338,Retail Store,Debit Card,Completed
+O002203,2024-06-23,C0005,Online,UPI,Completed
+O002204,2023-12-08,C0172,Online,UPI,Completed
+O002205,2025-04-26,C0111,Retail Store,UPI,Returned
+O002206,2023-04-05,C0475,Retail Store,UPI,Completed
+O002207,2023-10-24,C0278,Online,Credit Card,Completed
+O002208,2023-05-29,C0163,Online,UPI,Completed
+O002209,2024-06-25,C0140,Online,Net Banking,Completed
+O002210,2023-11-25,C0282,Online,Credit Card,Completed
+O002211,2023-08-05,C0003,Retail Store,Debit Card,Completed
+O002212,2024-02-17,C0129,Online,Debit Card,Completed
+O002213,2025-07-31,C0083,Retail Store,Credit Card,Completed
+O002214,2024-09-03,C0311,Online,Cash,Completed
+O002215,2025-06-20,C0335,Retail Store,Cash,Completed
+O002216,2025-09-27,C0234,Online,Credit Card,Completed
+O002217,2025-09-14,C0071,Online,UPI,Completed
+O002218,2024-01-20,C0186,Online,Credit Card,Completed
+O002219,2025-08-18,C0422,Marketplace,UPI,Completed
+O002220,2025-09-22,C0102,Retail Store,Credit Card,Cancelled
+O002221,2025-11-16,C0082,Marketplace,Credit Card,Completed
+O002222,2024-01-20,C0056,Online,Credit Card,Completed
+O002223,2023-09-08,C0409,Online,Net Banking,Completed
+O002224,2024-10-01,C0060,Online,UPI,Completed
+O002225,2025-10-17,C0291,Online,Credit Card,Completed
+O002226,2025-09-13,C0500,Retail Store,UPI,Completed
+O002227,2024-09-17,C0321,Marketplace,Net Banking,Completed
+O002228,2023-06-13,C0207,Retail Store,Debit Card,Completed
+O002229,2024-04-07,C0104,Retail Store,UPI,Completed
+O002230,2025-02-20,C0001,Online,Debit Card,Completed
+O002231,2024-09-05,C0078,Online,UPI,Completed
+O002232,2024-01-14,C0477,Retail Store,Debit Card,Completed
+O002233,2024-01-11,C0072,Online,Credit Card,Completed
+O002234,2023-03-07,C0010,Online,Credit Card,Completed
+O002235,2023-11-12,C0409,Marketplace,Debit Card,Completed
+O002236,2025-01-02,C0210,Marketplace,Net Banking,Completed
+O002237,2023-09-22,C0179,Retail Store,Net Banking,Completed
+O002238,2025-12-23,C0359,Online,Credit Card,Completed
+O002239,2023-04-01,C0262,Marketplace,Debit Card,Completed
+O002240,2024-10-06,C0458,Online,Credit Card,Completed
+O002241,2024-06-27,C0234,Online,Net Banking,Completed
+O002242,2025-07-01,C0357,Online,Net Banking,Completed
+O002243,2025-08-30,C0440,Marketplace,UPI,Completed
+O002244,2024-08-18,C0232,Marketplace,UPI,Completed
+O002245,2024-11-21,C0143,Retail Store,UPI,Completed
+O002246,2025-02-04,C0488,Online,UPI,Completed
+O002247,2024-07-24,C0114,Retail Store,Credit Card,Completed
+O002248,2023-07-22,C0020,Online,UPI,Completed
+O002249,2024-04-14,C0290,Marketplace,Debit Card,Completed
+O002250,2023-09-22,C0494,Online,UPI,Returned
+O002251,2024-05-23,C0044,Online,UPI,Completed
+O002252,2024-11-04,C0425,Retail Store,Debit Card,Completed
+O002253,2023-08-18,C0416,Online,Credit Card,Completed
+O002254,2023-10-01,C0465,Marketplace,Credit Card,Completed
+O002255,2025-06-20,C0211,Online,Net Banking,Completed
+O002256,2024-02-18,C0128,Marketplace,Cash,Completed
+O002257,2023-08-06,C0257,Online,Credit Card,Completed
+O002258,2025-02-19,C0072,Online,UPI,Completed
+O002259,2025-02-23,C0422,Online,UPI,Completed
+O002260,2025-06-23,C0332,Online,Cash,Completed
+O002261,2025-04-12,C0242,Retail Store,Debit Card,Cancelled
+O002262,2025-12-22,C0258,Online,Debit Card,Completed
+O002263,2024-09-21,C0357,Online,Debit Card,Completed
+O002264,2023-11-11,C0262,Retail Store,UPI,Completed
+O002265,2025-08-02,C0420,Online,Credit Card,Completed
+O002266,2023-10-17,C0463,Retail Store,Net Banking,Completed
+O002267,2023-11-15,C0475,Retail Store,Net Banking,Completed
+O002268,2025-06-26,C0311,Online,UPI,Completed
+O002269,2025-08-23,C0372,Retail Store,Debit Card,Completed
+O002270,2024-01-07,C0156,Online,UPI,Completed
+O002271,2025-03-09,C0020,Online,Cash,Completed
+O002272,2025-10-07,C0201,Online,UPI,Completed
+O002273,2025-05-24,C0436,Marketplace,Debit Card,Completed
+O002274,2023-01-06,C0067,Retail Store,UPI,Completed
+O002275,2024-12-28,C0273,Retail Store,Debit Card,Cancelled
+O002276,2023-07-06,C0097,Marketplace,Debit Card,Returned
+O002277,2025-07-15,C0215,Online,UPI,Completed
+O002278,2023-03-15,C0072,Marketplace,Net Banking,Completed
+O002279,2025-12-23,C0368,Retail Store,Net Banking,Completed
+O002280,2023-07-14,C0406,Marketplace,Net Banking,Completed
+O002281,2024-04-05,C0380,Marketplace,UPI,Completed
+O002282,2023-09-14,C0353,Marketplace,Debit Card,Completed
+O002283,2025-06-10,C0118,Online,Credit Card,Completed
+O002284,2024-03-06,C0266,Retail Store,Debit Card,Completed
+O002285,2025-03-26,C0053,Marketplace,Credit Card,Completed
+O002286,2023-03-15,C0188,Retail Store,Debit Card,Returned
+O002287,2024-05-10,C0253,Online,UPI,Completed
+O002288,2025-09-24,C0335,Marketplace,Credit Card,Completed
+O002289,2025-10-12,C0049,Online,UPI,Completed
+O002290,2023-08-17,C0407,Retail Store,UPI,Cancelled
+O002291,2024-03-07,C0230,Retail Store,UPI,Cancelled
+O002292,2024-03-23,C0441,Online,UPI,Completed
+O002293,2024-09-11,C0264,Retail Store,Net Banking,Completed
+O002294,2024-08-11,C0274,Online,Credit Card,Completed
+O002295,2023-04-27,C0347,Retail Store,UPI,Completed
+O002296,2025-04-15,C0410,Marketplace,Net Banking,Returned
+O002297,2023-09-05,C0079,Online,Cash,Completed
+O002298,2023-12-11,C0256,Retail Store,Net Banking,Completed
+O002299,2025-07-09,C0015,Online,Net Banking,Completed
+O002300,2025-01-25,C0238,Marketplace,Cash,Completed
+O002301,2024-03-10,C0407,Marketplace,Debit Card,Completed
+O002302,2025-09-26,C0433,Online,Cash,Completed
+O002303,2024-03-07,C0142,Retail Store,Cash,Completed
+O002304,2024-09-11,C0194,Retail Store,UPI,Completed
+O002305,2023-09-27,C0276,Retail Store,Net Banking,Completed
+O002306,2023-07-20,C0198,Retail Store,Net Banking,Completed
+O002307,2024-06-22,C0090,Retail Store,Net Banking,Completed
+O002308,2024-09-08,C0153,Retail Store,Net Banking,Completed
+O002309,2025-06-01,C0203,Online,Credit Card,Completed
+O002310,2024-03-04,C0260,Online,Credit Card,Completed
+O002311,2025-09-07,C0461,Marketplace,Debit Card,Completed
+O002312,2024-10-27,C0273,Online,Debit Card,Completed
+O002313,2023-03-18,C0194,Retail Store,Net Banking,Completed
+O002314,2025-03-20,C0331,Online,Net Banking,Completed
+O002315,2024-09-21,C0387,Marketplace,Debit Card,Completed
+O002316,2024-03-02,C0216,Retail Store,Cash,Completed
+O002317,2024-05-26,C0245,Online,UPI,Completed
+O002318,2023-11-27,C0109,Online,Cash,Cancelled
+O002319,2024-11-03,C0433,Online,UPI,Completed
+O002320,2024-09-12,C0434,Marketplace,Credit Card,Cancelled
+O002321,2024-05-04,C0088,Retail Store,UPI,Completed
+O002322,2023-11-09,C0174,Online,Credit Card,Completed
+O002323,2024-03-12,C0136,Retail Store,Credit Card,Completed
+O002324,2024-06-29,C0462,Online,UPI,Completed
+O002325,2024-05-31,C0033,Online,Debit Card,Completed
+O002326,2023-12-05,C0104,Online,Debit Card,Completed
+O002327,2024-09-29,C0158,Online,UPI,Completed
+O002328,2023-09-06,C0281,Retail Store,Debit Card,Completed
+O002329,2024-07-02,C0125,Marketplace,UPI,Completed
+O002330,2023-05-14,C0269,Marketplace,UPI,Completed
+O002331,2024-05-31,C0374,Marketplace,UPI,Completed
+O002332,2025-05-08,C0415,Online,Debit Card,Completed
+O002333,2025-06-14,C0050,Online,Net Banking,Completed
+O002334,2025-01-30,C0070,Retail Store,Debit Card,Completed
+O002335,2025-03-27,C0048,Marketplace,Net Banking,Completed
+O002336,2023-03-14,C0455,Retail Store,Debit Card,Completed
+O002337,2024-01-09,C0327,Retail Store,Net Banking,Completed
+O002338,2024-12-17,C0266,Retail Store,Cash,Cancelled
+O002339,2025-05-26,C0396,Retail Store,Credit Card,Completed
+O002340,2024-09-30,C0294,Marketplace,UPI,Completed
+O002341,2025-07-23,C0118,Retail Store,UPI,Completed
+O002342,2023-10-27,C0256,Online,Debit Card,Completed
+O002343,2023-06-18,C0352,Online,Credit Card,Completed
+O002344,2023-04-05,C0019,Retail Store,UPI,Completed
+O002345,2024-09-30,C0304,Online,Net Banking,Completed
+O002346,2024-12-29,C0249,Marketplace,Cash,Returned
+O002347,2023-11-09,C0035,Retail Store,UPI,Completed
+O002348,2025-05-08,C0132,Online,UPI,Completed
+O002349,2025-03-20,C0225,Online,UPI,Completed
+O002350,2024-01-30,C0172,Retail Store,Credit Card,Completed
+O002351,2023-09-19,C0146,Retail Store,Net Banking,Returned
+O002352,2025-03-23,C0325,Online,Debit Card,Completed
+O002353,2025-01-05,C0203,Marketplace,UPI,Completed
+O002354,2023-07-07,C0249,Online,Credit Card,Returned
+O002355,2023-10-07,C0400,Online,UPI,Completed
+O002356,2024-06-16,C0047,Online,Credit Card,Completed
+O002357,2024-07-13,C0180,Retail Store,Credit Card,Completed
+O002358,2023-07-01,C0037,Retail Store,Debit Card,Completed
+O002359,2025-11-04,C0464,Marketplace,Credit Card,Completed
+O002360,2024-03-01,C0093,Online,Net Banking,Completed
+O002361,2024-02-22,C0410,Marketplace,UPI,Completed
+O002362,2023-03-08,C0096,Retail Store,Net Banking,Cancelled
+O002363,2025-08-16,C0163,Online,UPI,Completed
+O002364,2023-09-15,C0305,Online,UPI,Completed
+O002365,2025-12-16,C0416,Online,Net Banking,Returned
+O002366,2025-08-15,C0089,Marketplace,Debit Card,Completed
+O002367,2023-07-16,C0107,Online,UPI,Completed
+O002368,2023-07-01,C0441,Online,Credit Card,Completed
+O002369,2025-05-27,C0161,Retail Store,Debit Card,Completed
+O002370,2025-06-16,C0105,Marketplace,Cash,Completed
+O002371,2024-08-17,C0372,Retail Store,Debit Card,Completed
+O002372,2023-02-05,C0046,Retail Store,UPI,Completed
+O002373,2025-10-30,C0434,Online,Credit Card,Completed
+O002374,2024-03-06,C0438,Marketplace,UPI,Completed
+O002375,2025-10-21,C0429,Online,UPI,Completed
+O002376,2025-08-11,C0148,Online,Debit Card,Completed
+O002377,2025-07-21,C0058,Marketplace,Net Banking,Completed
+O002378,2025-01-24,C0213,Online,UPI,Completed
+O002379,2025-01-07,C0168,Online,Net Banking,Completed
+O002380,2024-08-06,C0480,Retail Store,Debit Card,Completed
+O002381,2023-01-28,C0316,Online,Debit Card,Completed
+O002382,2024-02-29,C0473,Online,UPI,Completed
+O002383,2025-03-10,C0376,Retail Store,Credit Card,Returned
+O002384,2025-06-08,C0358,Retail Store,UPI,Completed
+O002385,2024-09-04,C0056,Retail Store,UPI,Completed
+O002386,2025-02-15,C0035,Online,UPI,Completed
+O002387,2023-01-24,C0024,Retail Store,UPI,Completed
+O002388,2024-05-27,C0297,Marketplace,UPI,Cancelled
+O002389,2024-07-09,C0101,Online,UPI,Completed
+O002390,2025-09-04,C0495,Online,Cash,Completed
+O002391,2023-12-07,C0067,Online,Net Banking,Completed
+O002392,2023-09-09,C0474,Retail Store,Credit Card,Completed
+O002393,2024-01-21,C0334,Online,Cash,Completed
+O002394,2023-07-06,C0054,Retail Store,UPI,Completed
+O002395,2024-09-03,C0030,Marketplace,Credit Card,Completed
+O002396,2024-12-04,C0198,Online,Net Banking,Completed
+O002397,2025-05-27,C0170,Retail Store,Credit Card,Completed
+O002398,2025-11-30,C0158,Online,UPI,Completed
+O002399,2023-03-22,C0265,Online,Credit Card,Completed
+O002400,2023-09-28,C0065,Retail Store,Credit Card,Completed
+O002401,2023-11-26,C0065,Online,Debit Card,Completed
+O002402,2023-10-01,C0348,Marketplace,Credit Card,Completed
+O002403,2025-06-24,C0496,Retail Store,Credit Card,Returned
+O002404,2023-06-02,C0137,Online,UPI,Completed
+O002405,2023-02-02,C0466,Online,Credit Card,Completed
+O002406,2025-07-31,C0173,Online,UPI,Completed
+O002407,2025-11-18,C0168,Marketplace,Net Banking,Completed
+O002408,2023-09-05,C0046,Retail Store,Debit Card,Returned
+O002409,2023-12-31,C0212,Online,Credit Card,Completed
+O002410,2024-07-04,C0249,Retail Store,Debit Card,Completed
+O002411,2024-07-29,C0332,Retail Store,UPI,Completed
+O002412,2025-12-21,C0080,Retail Store,Credit Card,Completed
+O002413,2024-03-18,C0095,Online,Credit Card,Completed
+O002414,2023-01-14,C0217,Online,Credit Card,Completed
+O002415,2024-04-07,C0035,Online,Debit Card,Completed
+O002416,2024-09-01,C0072,Online,Cash,Completed
+O002417,2024-07-19,C0315,Online,Credit Card,Completed
+O002418,2024-07-14,C0477,Online,Credit Card,Returned
+O002419,2025-10-07,C0287,Online,Debit Card,Completed
+O002420,2025-06-03,C0073,Online,UPI,Completed
+O002421,2023-10-03,C0496,Online,UPI,Completed
+O002422,2024-01-25,C0261,Marketplace,Cash,Completed
+O002423,2025-01-01,C0359,Retail Store,Net Banking,Completed
+O002424,2024-03-25,C0099,Online,Cash,Completed
+O002425,2024-04-14,C0290,Retail Store,UPI,Completed
+O002426,2023-07-03,C0039,Online,UPI,Completed
+O002427,2023-10-06,C0313,Marketplace,Credit Card,Completed
+O002428,2025-03-22,C0102,Retail Store,Cash,Completed
+O002429,2025-07-12,C0455,Retail Store,UPI,Completed
+O002430,2025-05-09,C0028,Marketplace,UPI,Completed
+O002431,2023-12-04,C0327,Marketplace,UPI,Completed
+O002432,2023-05-30,C0070,Marketplace,Net Banking,Completed
+O002433,2023-06-24,C0344,Online,Net Banking,Completed
+O002434,2024-03-06,C0247,Online,Debit Card,Completed
+O002435,2024-07-20,C0484,Retail Store,UPI,Completed
+O002436,2025-09-04,C0326,Online,Debit Card,Completed
+O002437,2025-09-11,C0186,Retail Store,Credit Card,Completed
+O002438,2023-01-03,C0044,Retail Store,UPI,Completed
+O002439,2025-02-13,C0298,Online,UPI,Completed
+O002440,2023-11-24,C0221,Online,Credit Card,Cancelled
+O002441,2023-08-05,C0027,Retail Store,UPI,Completed
+O002442,2024-08-30,C0291,Online,Cash,Completed
+O002443,2023-02-07,C0105,Retail Store,Credit Card,Completed
+O002444,2024-01-01,C0118,Retail Store,Credit Card,Completed
+O002445,2024-08-27,C0005,Online,Debit Card,Completed
+O002446,2023-10-25,C0187,Retail Store,Debit Card,Completed
+O002447,2024-10-11,C0110,Retail Store,UPI,Returned
+O002448,2024-05-18,C0036,Retail Store,Debit Card,Completed
+O002449,2025-05-25,C0218,Online,UPI,Completed
+O002450,2023-07-18,C0111,Retail Store,Credit Card,Completed
+O002451,2023-03-04,C0068,Retail Store,Debit Card,Completed
+O002452,2024-08-02,C0234,Online,Credit Card,Completed
+O002453,2023-10-09,C0032,Retail Store,Credit Card,Returned
+O002454,2025-02-12,C0496,Marketplace,UPI,Completed
+O002455,2023-04-13,C0236,Online,Credit Card,Completed
+O002456,2024-09-21,C0499,Retail Store,UPI,Completed
+O002457,2025-12-19,C0441,Marketplace,Cash,Completed
+O002458,2023-04-12,C0490,Marketplace,Credit Card,Completed
+O002459,2023-11-27,C0272,Online,Net Banking,Completed
+O002460,2025-07-13,C0212,Retail Store,Credit Card,Completed
+O002461,2024-08-07,C0360,Marketplace,Net Banking,Completed
+O002462,2023-07-11,C0041,Retail Store,UPI,Completed
+O002463,2023-08-22,C0421,Online,UPI,Completed
+O002464,2025-04-17,C0162,Online,UPI,Completed
+O002465,2025-07-31,C0004,Retail Store,UPI,Completed
+O002466,2024-01-30,C0119,Online,Cash,Completed
+O002467,2024-06-02,C0122,Online,Debit Card,Completed
+O002468,2025-05-07,C0008,Online,Debit Card,Completed
+O002469,2023-07-13,C0335,Retail Store,Credit Card,Completed
+O002470,2023-08-14,C0048,Online,Credit Card,Completed
+O002471,2025-04-28,C0424,Marketplace,Debit Card,Completed
+O002472,2023-07-24,C0227,Retail Store,Net Banking,Completed
+O002473,2025-04-24,C0360,Marketplace,Debit Card,Completed
+O002474,2024-06-28,C0170,Marketplace,Debit Card,Completed
+O002475,2025-12-20,C0066,Online,UPI,Cancelled
+O002476,2023-02-06,C0091,Retail Store,Cash,Returned
+O002477,2025-11-01,C0323,Online,UPI,Completed
+O002478,2023-09-04,C0359,Marketplace,Credit Card,Completed
+O002479,2023-02-08,C0134,Online,Net Banking,Completed
+O002480,2025-03-03,C0179,Retail Store,UPI,Completed
+O002481,2024-08-06,C0473,Marketplace,UPI,Completed
+O002482,2025-07-05,C0426,Online,Credit Card,Completed
+O002483,2023-04-29,C0207,Marketplace,Credit Card,Completed
+O002484,2023-03-30,C0121,Online,Cash,Completed
+O002485,2024-09-13,C0151,Online,Net Banking,Completed
+O002486,2025-08-23,C0270,Online,Credit Card,Cancelled
+O002487,2024-03-20,C0284,Online,Cash,Completed
+O002488,2025-05-23,C0093,Retail Store,Debit Card,Completed
+O002489,2025-09-19,C0033,Marketplace,Net Banking,Completed
+O002490,2025-08-10,C0248,Online,UPI,Completed
+O002491,2024-07-10,C0399,Retail Store,Credit Card,Completed
+O002492,2025-02-03,C0077,Marketplace,UPI,Completed
+O002493,2024-07-29,C0205,Retail Store,UPI,Returned
+O002494,2025-01-08,C0081,Online,Debit Card,Completed
+O002495,2024-09-12,C0122,Marketplace,UPI,Completed
+O002496,2024-07-28,C0307,Online,Credit Card,Completed
+O002497,2024-04-23,C0144,Retail Store,Debit Card,Completed
+O002498,2024-12-15,C0132,Retail Store,UPI,Completed
+O002499,2025-04-02,C0498,Retail Store,Credit Card,Completed
+O002500,2025-10-03,C0087,Online,Debit Card,Cancelled

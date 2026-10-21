@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,ListPrice,UnitCost
+P001,Phones Product 001,Technology,Phones,38394.11,28275.43
+P002,Accessories Product 002,Technology,Accessories,36936.45,24335.97
+P003,Accessories Product 003,Technology,Accessories,2226.84,1372.69
+P004,Computers Product 004,Technology,Computers,14746.17,11834.38
+P005,Accessories Product 005,Technology,Accessories,36327.05,19540.9
+P006,Phones Product 006,Technology,Phones,44043.88,28608.15
+P007,Phones Product 007,Technology,Phones,43697.09,26631.15
+P008,Phones Product 008,Technology,Phones,18039.24,12245.32
+P009,Phones Product 009,Technology,Phones,14618.58,7977.23
+P010,Accessories Product 010,Technology,Accessories,4871.94,3773.26
+P011,Accessories Product 011,Technology,Accessories,16300.61,10089.22
+P012,Phones Product 012,Technology,Phones,19560.48,13599.83
+P013,Phones Product 013,Technology,Phones,41991.89,25745.53
+P014,Computers Product 014,Technology,Computers,14984.5,9490.52
+P015,Computers Product 015,Technology,Computers,20916.35,14724.61
+P016,Phones Product 016,Technology,Phones,25059.36,14761.05
+P017,Computers Product 017,Technology,Computers,17192.03,8805.37
+P018,Phones Product 018,Technology,Phones,7681.3,5575.54
+P019,Computers Product 019,Technology,Computers,9850.62,6612.81
+P020,Phones Product 020,Technology,Phones,34060.39,19330.08
+P021,Phones Product 021,Technology,Phones,41755.84,28524.0
+P022,Computers Product 022,Technology,Computers,30185.41,15028.59
+P023,Phones Product 023,Technology,Phones,17813.69,14146.32
+P024,Computers Product 024,Technology,Computers,26159.24,12597.52
+P025,Phones Product 025,Technology,Phones,30698.74,20608.28
+P026,Accessories Product 026,Technology,Accessories,1437.33,1053.24
+P027,Accessories Product 027,Technology,Accessories,22464.68,14340.5
+P028,Computers Product 028,Technology,Computers,494.92,369.93
+P029,Computers Product 029,Technology,Computers,39574.67,24015.52
+P030,Accessories Product 030,Technology,Accessories,25537.24,14605.16
+P031,Computers Product 031,Technology,Computers,34927.13,22662.15
+P032,Accessories Product 032,Technology,Accessories,24257.83,19606.18
+P033,Accessories Product 033,Technology,Accessories,38539.98,20957.55
+P034,Computers Product 034,Technology,Computers,26843.7,20899.7
+P035,Tables Product 035,Furniture,Tables,1954.75,1477.26
+P036,Tables Product 036,Furniture,Tables,8749.48,5878.72
+P037,Tables Product 037,Furniture,Tables,10988.72,6862.38
+P038,Storage Product 038,Furniture,Storage,6754.22,4201.06
+P039,Chairs Product 039,Furniture,Chairs,14336.3,10964.74
+P040,Chairs Product 040,Furniture,Chairs,5226.49,3048.56
+P041,Storage Product 041,Furniture,Storage,577.87,379.63
+P042,Storage Product 042,Furniture,Storage,8426.61,6022.02
+P043,Tables Product 043,Furniture,Tables,12079.7,7345.54
+P044,Chairs Product 044,Furniture,Chairs,11194.06,5525.75
+P045,Tables Product 045,Furniture,Tables,9472.18,5236.89
+P046,Tables Product 046,Furniture,Tables,2642.28,1437.62
+P047,Tables Product 047,Furniture,Tables,1878.06,1506.37
+P048,Tables Product 048,Furniture,Tables,7379.14,5571.62
+P049,Tables Product 049,Furniture,Tables,1591.12,1116.28
+P050,Storage Product 050,Furniture,Storage,15704.65,10924.78
+P051,Tables Product 051,Furniture,Tables,7844.71,3861.21
+P052,Tables Product 052,Furniture,Tables,9692.62,7926.67
+P053,Tables Product 053,Furniture,Tables,871.13,627.19
+P054,Storage Product 054,Furniture,Storage,5536.5,4357.32
+P055,Tables Product 055,Furniture,Tables,16855.35,12889.99
+P056,Chairs Product 056,Furniture,Chairs,2247.45,1124.49
+P057,Chairs Product 057,Furniture,Chairs,2930.27,1939.44
+P058,Storage Product 058,Furniture,Storage,16496.05,11100.73
+P059,Storage Product 059,Furniture,Storage,8093.54,4058.59
+P060,Tables Product 060,Furniture,Tables,17442.23,10214.56
+P061,Storage Product 061,Furniture,Storage,5255.94,4246.21
+P062,Chairs Product 062,Furniture,Chairs,1833.01,1420.37
+P063,Chairs Product 063,Furniture,Chairs,14965.84,12149.35
+P064,Storage Product 064,Furniture,Storage,15182.46,12157.35
+P065,Tables Product 065,Furniture,Tables,14354.83,9553.57
+P066,Chairs Product 066,Furniture,Chairs,9851.4,7739.59
+P067,Chairs Product 067,Furniture,Chairs,12731.36,8201.53
+P068,Storage Product 068,Furniture,Storage,8296.81,5072.31
+P069,Paper Product 069,Office Supplies,Paper,1009.19,515.21
+P070,Binders Product 070,Office Supplies,Binders,239.72,178.63
+P071,Art Supplies Product 071,Office Supplies,Art Supplies,2330.18,1603.53
+P072,Binders Product 072,Office Supplies,Binders,136.18,72.66
+P073,Art Supplies Product 073,Office Supplies,Art Supplies,2440.55,1352.94
+P074,Paper Product 074,Office Supplies,Paper,1313.6,1048.65
+P075,Art Supplies Product 075,Office Supplies,Art Supplies,629.08,312.46
+P076,Art Supplies Product 076,Office Supplies,Art Supplies,426.32,213.81
+P077,Paper Product 077,Office Supplies,Paper,1443.0,1140.31
+P078,Paper Product 078,Office Supplies,Paper,1366.19,946.55
+P079,Art Supplies Product 079,Office Supplies,Art Supplies,2011.43,1387.98
+P080,Paper Product 080,Office Supplies,Paper,2167.14,1739.36
+P081,Paper Product 081,Office Supplies,Paper,271.92,151.41
+P082,Binders Product 082,Office Supplies,Binders,1122.71,899.89
+P083,Art Supplies Product 083,Office Supplies,Art Supplies,1938.39,1286.63
+P084,Binders Product 084,Office Supplies,Binders,497.88,293.28
+P085,Paper Product 085,Office Supplies,Paper,1698.49,1066.34
+P086,Binders Product 086,Office Supplies,Binders,610.18,442.65
+P087,Art Supplies Product 087,Office Supplies,Art Supplies,2344.84,1275.33
+P088,Paper Product 088,Office Supplies,Paper,312.92,203.15
+P089,Binders Product 089,Office Supplies,Binders,1295.07,813.91
+P090,Binders Product 090,Office Supplies,Binders,2487.3,1605.14
+P091,Binders Product 091,Office Supplies,Binders,1083.33,544.61
+P092,Binders Product 092,Office Supplies,Binders,1502.74,837.79
+P093,Art Supplies Product 093,Office Supplies,Art Supplies,174.54,142.02
+P094,Binders Product 094,Office Supplies,Binders,1199.06,941.14
+P095,Paper Product 095,Office Supplies,Paper,197.81,150.25
+P096,Binders Product 096,Office Supplies,Binders,1638.05,1221.65
+P097,Art Supplies Product 097,Office Supplies,Art Supplies,1612.95,1243.77
+P098,Binders Product 098,Office Supplies,Binders,1596.11,954.81
+P099,Binders Product 099,Office Supplies,Binders,1696.04,1368.03
+P100,Binders Product 100,Office Supplies,Binders,958.74,598.76
