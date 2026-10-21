@@ -22,7 +22,6 @@ This project analyzes retail sales, profitability, customer purchasing behavior,
 1. Sales Performance
 2. Product Analysis
 3. Returns Analysis
-4. RFM Customer Segmentation
 
 ## Key Metrics
 - Net Sales
